@@ -104,9 +104,11 @@ Thursday is lab/make/create day
 ###M1: Tumblr
 
 Week 1
+
 **Jan 31 -  Introduction, Class Constitution**
 
 **Feb 2 - Making Solomon**
+
 Tumblr Assignment #1 Due
 
 View the film 12 Years a Slave before arriving to class
@@ -124,7 +126,8 @@ View the film 12 Years a Slave before arriving to class
 
 Week 2
 **Feb 7 - Making the Underground**
-Tumblr Assignment #2 Due - Northrup vs. #UndergroundWGN Tumblr sites assignment
+
+Tumblr Assignment #2 Due
 
 View episode #1 of Underground before arriving to class
 
@@ -136,6 +139,7 @@ View episode #1 of Underground before arriving to class
 
 
 **Feb 9 - Making Teams**
+
 Project - Annotating Underground WGN Episode 1
 
 * Colored Conventions Project. Colored Conventions Project Team, 2015. https://www.youtube.com/watch?v=qN8mcZ2QPps.
