@@ -1,10 +1,10 @@
 # blkcodestudies
 Black Code Studies
 
-##Syllabus 
+## syllabus 
 
 Syllabus files proceed in this order:
 
-syllabus-description.md
-syllabus-requirements.md
-syllabus-schedule.md
+* syllabus-description.md
+* syllabus-requirements.md
+* syllabus-schedule.md
