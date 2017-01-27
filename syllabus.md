@@ -6,10 +6,15 @@ _This is the analog/PDF copy of the syllabus as finalized on January 30, 2016 an
 #Black Codes Studies: Black History and Digital Media (Spring 2017)
 
 ##Metadata
+
 Black Code Studies: Black History and Digital Media
+
 AS.100.358/AS.362.305
+
 Tuesday and Thursday
+
 3:00 - 4:15 p (Spring 2017)
+
 Dr. Jessica Marie Johnson (jmj@jhu.edu)
 
 
