@@ -11,4 +11,4 @@ Black Code Studies is about decoding systems of oppression. Click [here](https:/
 
 >In this tutorial, you will first learn the basics of Markdown—an easy to read and write markup syntax for plain text—as well as Pandoc, a command line tool that converts plain text into a number of beautifully formatted file types: PDF, .docx, HTML, LaTeX, slide decks, and more.1 With Pandoc as your digital typesetting tool, you can use Markdown syntax to add figures, a bibliography, formatting, and easily change citation styles from Chicago to MLA (for instance), all using plain text.
 
-test, test, test
+
