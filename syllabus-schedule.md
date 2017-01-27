@@ -18,15 +18,12 @@ Dr. Jessica Marie Johnson (jmj@jhu.edu)
 
 ##Course Schedule
 
-This course is divided into five modules:
-Tumblr
-Twitter
-Wordpress
-Omeka/Databasing
-GitHub
+This course is divided into five modules (M*):
 
-Tuesday is readings day
-Thursday is lab/make/create day
+* Tumblr
+* Twitter
+* Database
+* Blogging & Design
 
 ----------
 
@@ -55,6 +52,7 @@ View the film 12 Years a Slave before arriving to class
 
 
 Week 2
+
 **Feb 7 - Making the Underground**
 
 Tumblr Assignment #2 Due
@@ -70,14 +68,13 @@ View episode #1 of Underground before arriving to class
 
 **Feb 9 - Making Teams**
 
-Project - Annotating Underground WGN Episode 1
-
 * Colored Conventions Project. Colored Conventions Project Team, 2015. https://www.youtube.com/watch?v=qN8mcZ2QPps.
 * Colored Conventions Project Editorial Manual. [Click Here](http://coloredconventions.org/files/original/5c62efa0e78d328cd9e69f6debd02ade.pdf)
  
 ----------
 
 Week 3
+
 **Feb 14 - Black Fugitivity**
 
 * Camp, Stephanie M. H. “‘I Could Not Stay There’: Enslaved Women, Truancy and the Geography of Everyday Forms of Resistance in the Antebellum Plantation South.” Slavery & Abolition 23, no. 3 (December 1, 2002): 1–20. 
@@ -86,11 +83,10 @@ Week 3
 * Runaways, Selections from the WPA Interviews - [Click here](http://nationalhumanitiescenter.org/pds/maai/enslavement/text8/runawayswpa.pdf)
 * Video: Jasmine Cobb with Mark Anthony Neal on Left of Black [Youtube.](https://www.youtube.com/watch?v=8o6REkLk0_Y)
 
-[in class? - * Larson, Kate Clifford. “Harriet Ross Tubman Timeline.” Meridians: Feminism, Race, Transnationalism 12, no. 2 (November 7, 2014): 9–27.]
-
 
 **Feb 16 - Lab Day**
-Tumblr Module due by the end of class (pick a slave narrative, five posts Tumblr it)
+
+Tumblr Module due by the end of class 
 700-1500 word self-analysis in Markdown, due by midnight
 
 ----------
@@ -98,6 +94,7 @@ Tumblr Module due by the end of class (pick a slave narrative, five posts Tumblr
 ##M2: Twitter
 
 Week 4
+
 **Feb 21 - Black Machines**
 
 * McPherson, Tara. “US Operating Systems at Mid-Century.” In Race after the Internet, edited by Lisa Nakamura and P Chow-White, 2013. 
@@ -106,7 +103,7 @@ Week 4
 * Sanders, Sam. “How Black People May Or May Not Use Twitter.” 2010 NPR.org -  [Click](http://www.npr.org/sections/alltechconsidered/2010/08/16/129235517/how-black-people-may-or-may-not-use-twitter)
 * “How Black Lives Matter Uses Social Media to Fight the Power.” WIRED. 2015. [Click Here](https://www.wired.com/2015/10/how-black-lives-matter-uses-social-media-to-fight-the-power/)
 
-**Feb 23 - **Black Tech** [MAN]
+**Feb 23 - **Black Tech** [B-Side]
 
 * The Last Angel of History (film, 45 minutes) 
 * Akomfrah/Tate reading - TBA
@@ -117,6 +114,7 @@ Week 4
 
 
 Week 5
+
 **Feb 28 - Black Blues**
 
 * Sharpe, Christina, "Chapter One: The Wake," from *In the Wake: On Blackness and Being*, Duke U Press, 2016
@@ -124,6 +122,7 @@ Week 5
 
 
 **Mar 2 - **
+
 .#BlkTwitterstorians visit?
 Caleb McDaniel visit? on @Every3Minutes?
 Or Sarah Jackson and Moya Bailey?
@@ -138,6 +137,7 @@ Or Katrina in class exercise?
 ----------
 
 Week 6
+
 **Mar 7 - Surveillance and Dark Matters**
 
 * Simone Browne, “Everybody’s Got a Little Light Under the Sun.” Cultural Studies 26, no. 4 (2012): 542–64.
@@ -146,6 +146,7 @@ Week 6
 * Harry, Sydette. “Everyone Watches, Nobody Sees: How Black Women Disrupt Surveillance Theory.” Model View Culture. Accessed January 12, 2017. [Click Here](https://modelviewculture.com/pieces/everyone-watches-nobody-sees-how-black-women-disrupt-surveillance-theory)
 
 **Mar 9 - Lab Day**
+
 Twitter Module due by the end of class
 700-1500 word self-analysis in Markdown, due by midnight
 
@@ -155,6 +156,7 @@ Twitter Module due by the end of class
 [mark anthony neal - kim gallon - marisa parham]
 
 Week 7 
+
 **Mar 14 - Black Knowing**
 
 * Pumzi (dir. Wanuri Kahiu) 2009 [Click Here](https://www.youtube.com/watch?v=IlR7l_B86Fc&list=PLrtOtG6W-c0A13SRf3BuW9-An3NeAcig5&index=8)
@@ -169,12 +171,15 @@ Week 7
 ---
 
 **Week 8 (Spring Break)**
+
 **Mar 21 & March 23**
+
 No class
 
 ---
 
 Week 9
+
 **Mar 28 - Coding Black Revolt**
 
 * Brown, Vincent. “Mapping a Slave Revolt Visualizing Spatial History through the Archives of Slavery.” Social Text 33, no. 4 125 (December 1, 2015): 134–41. 
