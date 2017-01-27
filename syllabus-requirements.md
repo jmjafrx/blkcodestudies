@@ -51,3 +51,14 @@ Project Portfolio = 1 x 5 Modules
 Final Oral Exam and Self-Evaluation
 * self eval is written
 
+
+The Black Code Studies Undercommons
+
+FINAL PROJECT 
+Design something
+Cumulative 
+A site a space
+Digital Object
+Website
+Short Film
+Mixed media
