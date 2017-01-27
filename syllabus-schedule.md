@@ -1,6 +1,4 @@
-The JMJ and MAN Working Syllabus
-
-_This is the analog/PDF copy of the syllabus as finalized on January 30, 2016 and distributed by request to students in the class at JHU. It will and has changed since then. For the official syllabus go to [insert url](http://jmjohnso.com/teaching/blkcodestudies)_
+_This is the analog/PDF copy of the syllabus as finalized on January 30, 2016 and distributed by request to students in the class at JHU. It will and has changed since then. For the official syllabus go to [insert url]
 
 
 #Black Codes Studies: Black History and Digital Media (Spring 2017)
@@ -17,74 +15,6 @@ Tuesday and Thursday
 
 Dr. Jessica Marie Johnson (jmj@jhu.edu)
 
-
-##Description
-
-This course explores the making of histories of people of African descent in an age of digital and social media. The focus will be on African-descended communities in the United States, but content will range across time space. Students will explore questions of blackness, race, ethnicity, sex and sexuality, violence and justice while learning more about and creating digital content using platforms like Tumblr, Twitter, Wordpress, Github, and more. 
-
-Students will be evaluated on their acquisition of black diasporic history; their knowledge of digital and social media platforms; and their ability to creatively and accurately relate histories of blackness and black people to digital ideas and theory. 
-
-This course conspires to abscond. We will be working alongside the Black Code Studies Working Group at Duke University under the direction of Dr. Mark Anthony Neal.
-
-Black Code Studies is about decoding systems of oppression. [Click here](https://github.com/jmjafrx/blkcodestudies/blob/master/resources.md) for a list of terms you are likely to hear this semester and other resources. Some of the language we will be using may be familiar--if you have questions, just ask. 
-
-**The “This Is Not About You” Disclaimer:**
-The material covered will likely make you uncomfortable. And that's fine! We are all here to learn and we are all learning. You are not required to agree with everything you read or everything your peers have to say. You are required to engage and think critically and historically about all of the topics discussed. This course uses histories of people of African descent to think broadly about all forms of difference in the U.S. and around the world. Hopefully these topics interest you and will make for rousing discussions over the course of the semester.
-
-But if you anticipate having difficulty engaging with these topics, this is not be the course for you.
-
-##Resources
-Black Code Studies Playlist on Spotify → [Click here](https://open.spotify.com/user/1240086865/playlist/4UDoQDSNuElT1r2xQ3oZ5F)
-
-Black Codes Studies Playlist on Google Play/Youtube? - Add link
-
-
-##Goals
-By the end of the course, students should be able to:
-
-1. Introduce “Black Code Studies” - When someone comes up to you and asks what is black code studies, what do you tell them?
-2. Narrate key elements of black diasporic political history; understand change over time; understand change across place; from slavery to the present. 
-3. Design, manage, and execute multiple digital media projects that decode digital space from a black diasporic political insurgency framework.  
-
-Skills they need to leave with:
-5 platforms sufficiency
-Markdown literacy
-Change over time in black history
-Black Resistance/Antiblackness decoder rings
-
-##Requirements
-
-###The Tools
-* A Google Account (you may create one specifically for this class) to access the BCS Student Drive and for collaboration purposes
-* A Github account (you may create one specifically for this class)
-* Google Chrome on d/m - This is where we will work
-* StackEdit on desktop / SimpleNote on mobile - This is where you will write
-* Slack - This is where you lab (maybe)
-
-
-###The Work
-
-Black Code Studies Lab Log (%)
-Participation/Discussion Questions (%)
-Team Peer Reviews (%)
-Project Portfolio = 1 x 5 Modules (%)
-Final Oral Exam and Self-Evaluation (%)
-
-Black Code Studies Lab Log 
-Weekly - Tuesday
-
-Black Code Studies Lab
-Weekly - Thursday
-
-Participation/Discussion Questions
-weekly
-Team Peer Reviews
-Team evals
-Project Portfolio = 1 x 5 Modules
-* include 1 analog option each?
-
-Final Oral Exam and Self-Evaluation
-* self eval is written
 
 ##Course Schedule
 
