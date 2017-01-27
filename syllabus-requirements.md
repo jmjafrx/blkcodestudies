@@ -51,11 +51,3 @@ Project Portfolio = 1 x 5 Modules
 Final Oral Exam and Self-Evaluation
 * self eval is written
 
-##Resources
-
-Black Code Studies EP - Side A [Click here](http://www.newblackmaninexile.net/2017/01/blackcodestudies-ep-a-side.html)
-
-Black Code Studies EP - Side B [Click Here](http://www.newblackmaninexile.net/2017/01/blackcodestudies-ep-b-side.html)
-
-Black Codes Studies Playlist on Spotify [Click Here](https://open.spotify.com/user/1240086865/playlist/4UDoQDSNuElT1r2xQ3oZ5F)
-
