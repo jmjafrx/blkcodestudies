@@ -1,4 +1,4 @@
-_This is the analog/PDF copy of the syllabus as finalized on January 30, 2016 and distributed by request to students in the class at JHU. It will and has changed since then. For the official syllabus go to [insert url]
+_This is the analog/PDF copy of the syllabus as finalized on January 30, 2016 and distributed by request to students in the class at JHU. It will and has changed since then. For the official syllabus go to [https://github.com/jmjafrx/blkcodestudies/edit/master/syllabus-schedule.md]
 
 
 #Black Codes Studies: Black History and Digital Media (Spring 2017)
@@ -18,12 +18,12 @@ Dr. Jessica Marie Johnson (jmj@jhu.edu)
 
 ##Course Schedule
 
-This course is divided into five modules (M*):
+This course is divided into four modules (M*):
 
 * Tumblr
 * Twitter
 * Database
-* Blogging & Design
+* Blogging/Design
 
 ----------
 
@@ -53,7 +53,7 @@ View the film 12 Years a Slave before arriving to class
 
 Week 2
 
-**Feb 7 - Making the Underground**
+**Feb 7 - Remembering Resistance**
 
 Tumblr Assignment #2 Due
 
@@ -67,6 +67,8 @@ View episode #1 of Underground before arriving to class
 
 
 **Feb 9 - Making Teams**
+
+Final Project Assignment Distributed
 
 * Colored Conventions Project. Colored Conventions Project Team, 2015. https://www.youtube.com/watch?v=qN8mcZ2QPps.
 * Colored Conventions Project Editorial Manual. [Click Here](http://coloredconventions.org/files/original/5c62efa0e78d328cd9e69f6debd02ade.pdf)
@@ -103,7 +105,7 @@ Week 4
 * Sanders, Sam. “How Black People May Or May Not Use Twitter.” 2010 NPR.org -  [Click](http://www.npr.org/sections/alltechconsidered/2010/08/16/129235517/how-black-people-may-or-may-not-use-twitter)
 * “How Black Lives Matter Uses Social Media to Fight the Power.” WIRED. 2015. [Click Here](https://www.wired.com/2015/10/how-black-lives-matter-uses-social-media-to-fight-the-power/)
 
-**Feb 23 - **Black Tech** [B-Side]
+**Feb 23 - Black Tech** [B-Side]
 
 * The Last Angel of History (film, 45 minutes) 
 * Akomfrah/Tate reading - TBA
@@ -121,12 +123,7 @@ Week 5
 * Woods, Clyde Adrian. “Do You Know What It Means to Miss New Orleans?: Katrina, Trap Economics, and the Rebirth of the Blues.” American Quarterly 57, no. 4 (January 3, 2006): 1005–18. 
 
 
-**Mar 2 - **
-
-.#BlkTwitterstorians visit?
-Caleb McDaniel visit? on @Every3Minutes?
-Or Sarah Jackson and Moya Bailey?
-Or Katrina in class exercise?
+**Mar 2 - Black Struggle**
 
 * Freelon, Deen Goodwin, Charlton D. McIlwain, and Meredith D. Clark. “Beyond the Hashtags:# Ferguson,# Blacklivesmatter, and the Online Struggle for Offline Justice.” Available at SSRN, 2016. [Click Here](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2747066)
 * Kelley, Robin D. G. “Black Study, Black Struggle.” Boston Review, March 7, 2016. [Click Here](http://bostonreview.net/forum/robin-d-g-kelley-black-study-black-struggle)
@@ -138,7 +135,7 @@ Or Katrina in class exercise?
 
 Week 6
 
-**Mar 7 - Surveillance and Dark Matters**
+**Mar 7 - Surveillance and Dark Matter**
 
 * Simone Browne, “Everybody’s Got a Little Light Under the Sun.” Cultural Studies 26, no. 4 (2012): 542–64.
 * Joseph, George. “U.S. Police Cellphone Surveillance by ‘Stingray,’ Mapped - CityLab.”  [Click Here](http://www.citylab.com/crime/2016/10/racial-disparities-in-police-stingray-surveillance-mapped/502715/.)
@@ -153,7 +150,6 @@ Twitter Module due by the end of class
 ----------
 
 ##M3: Black Data 
-[mark anthony neal - kim gallon - marisa parham]
 
 Week 7 
 
@@ -161,8 +157,9 @@ Week 7
 
 * Pumzi (dir. Wanuri Kahiu) 2009 [Click Here](https://www.youtube.com/watch?v=IlR7l_B86Fc&list=PLrtOtG6W-c0A13SRf3BuW9-An3NeAcig5&index=8)
 * Hairston, Andrea. "Ghost dances on silver screens: Pumzi and Older Than America." Extrapolation, vol. 57, no. 1-2, 2016.
+* Parham, Marisa. “Saying‘ Yes’: Textual Traumas in Octavia Butler’s Kindred.” Callaloo 32, no. 4 (2009): 1315–1331.
 
-**Mar 16 - Space is the Place** [MAN]
+**Mar 16 - Space is the Place** [B-Side]
 
 * Brother from Another Planet (dir.)
 * Derrick Bell, "Space Traders" Faces at the Bottom of the Well
@@ -191,21 +188,20 @@ Week 9
 
 * Lev Manovich, “Database as a Genre of New Media.” [Click Here](http://vv.arts.ucla.edu/AI_Society/manovich.html) 
 * Eltis, David, and David Richardson. “A New Assessment of the Transatlantic Slave Trade.” In Extending the Frontiers: Essays on the New Transatlantic Slave Trade Database, edited by Eltis, David and Richardson, David, 1–62. Yale University Press, 2008.
+* The H-Net Gorée Debate [Click Here](https://www.dropbox.com/s/02j62dwsq07we3l/H-Net%20Goree%20Debate.pdf?dl=0)
 * Carrie Mae Weems - From Here I Saw What Happened, And Cried
 http://carriemaeweems.net/galleries/from-here.html
-
-
-[for class - https://www.youtube.com/watch?v=l2VrAsu0KeE or http://www.jackshainman.com/artists/carriemae-weems/]
 
 
 ---
 
 Week 10
+
 **Apr 4 -  Black Visual Archives I**
 
-Handler, Jerome S., and Annis Steiner. �Identifying Pictorial Images of Atlantic Slavery: Three Case Studies.� Slavery & Abolition 27, no. 1 (2006): 51–71.  [Click Here]
-
-Morgan, Jennifer L. "'Some Could Suckle over Their Shoulder:' Male Travelers, Female Bodies, and the Gendering of Racial Ideology, 1500-1770." The William and Mary Quarterly 54, no. 1 (January 1, 1997): 167–192. [Click Here]
+* Handler, Jerome S., and Annis Steiner. �Identifying Pictorial Images of Atlantic Slavery: Three Case Studies.� Slavery & Abolition 27, no. 1 (2006): 51–71.  [Click Here]
+* Morgan, Jennifer L. "'Some Could Suckle over Their Shoulder:' Male Travelers, Female Bodies, and the Gendering of Racial Ideology, 1500-1770." The William and Mary Quarterly 54, no. 1 (January 1, 1997): 167–192. [Click Here]
+* “Interview: Kara Walker Decodes Her New World Sphinx at Domino Sugar Factory.” Complex. Accessed January 28, 2017. http://www.complex.com/style/2014/05/kara-walker-interview.
 
 
 **Apr 6 - Lab Day**
@@ -219,6 +215,7 @@ Database Module due by the end of class
 
 
 Week 11
+
 **Apr 11 - Black Visual Archives II**
 
 * Krauthamer and Willis, *Envisioning Emancipation*
@@ -227,45 +224,51 @@ Week 11
 * Jepchumba Fakugesi, "Digital Art Residency," Future Lab Africa Podcast, 2015 [Click Here](http://futurelabafrica.org/episodes/jepchumba/) 
 
 
+**Apr 13 - Lab Day** -- 
 
-**Apr 13 - Lab Day** -- X OAH
 * Work on Final Projects in Teams
 
 ---
 Week 12
-**Apr 18 - Blogging While Black** 
 
+**Apr 18 - Blogging While Black/Diasporic/Queer** 
+
+* Mitchell, Michele. “Silences Broken, Silences Kept: Gender and Sexuality in African-American History.” Gender & History 11, no. 3 (1999): 433–444. doi:10.1111/1468-0424.00154.
 * Smith, Barbara. "A Press of Our Own Kitchen Table: Women of Color Press." Frontiers: A Journal of Women Studies 10, no. 3 (January 1, 1989): 11–13. [Click Here]
-* Alexis Pauline Gumbs, "We Can Learn to Mother Ourselves": A Dialogically Produced Audience and Black Feminist Publishing 1979 to the "Present" Gender Forum [Click Here]
+* Gumbs, Alexis Pauline, "Seek the Roots: An Immersive and Interactive Archive of Black Feminist Practice," Feminist Collections (Winter 2011) [Click Here]
 *  Janet Mock | Why We Don't Have More Books By Trans Women of Color | Janet Mock Online [Click Here]
 * Ramanathan, Lavanya, “Very Smart Brothas Is the Blackest Thing That Ever Happened to the Internet. Period.” The Washington Post, November 21, 2016. [Click Here](https://www.washingtonpost.com/lifestyle/style/very-smart-brothas-is-the-blackest-thing-that-ever-happened-to-the-internet-period/2016/11/21/9b62b5aa-8719-11e6-a3ef-f35afb41797f_story.html)
-
 
 
 **Apr 20 - Whose Technology?**
 
 * Weheliye, "Engendering Phonographies: Sonic Technologies of Blackness" *Small Axe*
 * Kim Gallon, Black Digital Humanities, "Debates in the Digital Humanities" 2016 [Click Here](http://dhdebates.gc.cuny.edu/debates/text/55)
+* Haynes, Tonya. “Mapping Caribbean Cyberfeminisms.” Sx Archipelagos, no. 1 (May 1, 2016). 
 * Weheliye Toolkit [Click Here](http://www.afro-paradise.com/perfrvb-blog/-a-toolkit-for-reading-habeas-viscus-racializing-assemblages-biopolitics-and-black-feminist-theories-of-the-human-2014)
-* Kenyan Artist Wangechi Mutu: http://wangechimutu.com/
+* Wangechi Mutu: http://wangechimutu.com/
 
 
 ---
 Week 13
+
 **Apr 25 - Whose History? **
 
-* Sylvia Wynter, 1492
-* Figueroa, Reparations Article
+* Deborah Gray White, "My History in History," Telling Histories, 85-100
+* Wynter, Sylvia. "1492: A new world view." Race, discourse, and the origin of the Americas: A new world view (1995): 5-57.
+* Figueroa, Yomaira C. "Reparation as transformation: Radical literary (re) imaginings of futurities through decolonial love." Decolonization: Indigeneity, Education & Society 4, no. 1 (2015).
 * Gumbs, How She Knew, Spill: Scenes in Black Feminist Fugitivity
 * Fabiola Jean-Louis - Rewriting History, [Click Here](http://www.fabiolajeanlouis.com/collection/)
 
+---
+
+#Last Days / Dance Apocalyptic
+
 **Apr 27 - Final Presentations**
 
-___
-Finals Week 
 **May 2 -- Final Presentations / Class Reflections**
 
-**May 4 -- ** X GA DH event 
+**May 4 -- [B-Side] Class Reflections**
 
 
 
