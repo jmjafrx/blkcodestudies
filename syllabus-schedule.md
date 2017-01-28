@@ -83,9 +83,9 @@ Week 3
 
 * Camp, Stephanie M. H. “‘I Could Not Stay There’: Enslaved Women, Truancy and the Geography of Everyday Forms of Resistance in the Antebellum Plantation South.” Slavery & Abolition 23, no. 3 (December 1, 2002): 1–20. 
 * McKittrick, Katherine. “Mathematics Black Life.” The Black Scholar 44, no. 2 (July 1, 2014): 16–28.
+* Video: Jasmine Cobb with Mark Anthony Neal on Left of Black [Youtube.](https://www.youtube.com/watch?v=8o6REkLk0_Y)
 * Anthony Chase to Jeremiah Hoffman, 1827, Baltimore [Click Here](http://nationalhumanitiescenter.org/pds/maai/enslavement/text8/runawaychaseletter.pdf) 
 * Runaways, Selections from the WPA Interviews - [Click here](http://nationalhumanitiescenter.org/pds/maai/enslavement/text8/runawayswpa.pdf)
-* Video: Jasmine Cobb with Mark Anthony Neal on Left of Black [Youtube.](https://www.youtube.com/watch?v=8o6REkLk0_Y)
 
 
 **Feb 16 - Lab Day**
@@ -155,7 +155,7 @@ Twitter Module due by the end of class
 
 Week 7 
 
-**Mar 14 - Black Knowing**
+**Mar 14 - Black Knowing** 
 
 * Pumzi (dir. Wanuri Kahiu) 2009 [Click Here](https://www.youtube.com/watch?v=IlR7l_B86Fc&list=PLrtOtG6W-c0A13SRf3BuW9-An3NeAcig5&index=8)
 * Hairston, Andrea. "Ghost dances on silver screens: Pumzi and Older Than America." Extrapolation, vol. 57, no. 1-2, 2016.
@@ -233,7 +233,7 @@ Week 11
 ---
 Week 12
 
-**Apr 18 - Blogging While Black/Diasporic/Queer** 
+**Apr 18 - Designing Narratives** 
 
 * Mitchell, Michele. “Silences Broken, Silences Kept: Gender and Sexuality in African-American History.” Gender & History 11, no. 3 (1999): 433–444. doi:10.1111/1468-0424.00154.
 * Smith, Barbara. "A Press of Our Own Kitchen Table: Women of Color Press." Frontiers: A Journal of Women Studies 10, no. 3 (January 1, 1989): 11–13. [Click Here]
@@ -247,14 +247,13 @@ Week 12
 * Weheliye, "Engendering Phonographies: Sonic Technologies of Blackness" *Small Axe*
 * Kim Gallon, Black Digital Humanities, "Debates in the Digital Humanities" 2016 [Click Here](http://dhdebates.gc.cuny.edu/debates/text/55)
 * Haynes, Tonya. “Mapping Caribbean Cyberfeminisms.” Sx Archipelagos, no. 1 (May 1, 2016). 
-* Weheliye Toolkit [Click Here](http://www.afro-paradise.com/perfrvb-blog/-a-toolkit-for-reading-habeas-viscus-racializing-assemblages-biopolitics-and-black-feminist-theories-of-the-human-2014)
 * Wangechi Mutu: http://wangechimutu.com/
 
 
 ---
 Week 13
 
-**Apr 25 - Whose History? **
+**Apr 25 - Whose History?**
 
 * Deborah Gray White, "My History in History," Telling Histories, 85-100
 * Wynter, Sylvia. "1492: A new world view." Race, discourse, and the origin of the Americas: A new world view (1995): 5-57.
