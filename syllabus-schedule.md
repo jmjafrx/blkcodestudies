@@ -1,4 +1,6 @@
-_This is the analog/PDF copy of the syllabus as finalized on January 30, 2016 and distributed by request to students in the class at JHU. It will and has changed since then. For the official syllabus go to [https://github.com/jmjafrx/blkcodestudies/edit/master/syllabus-schedule.md]
+_This is the analog/PDF copy of the syllabus as finalized on January 30, 2016 and distributed by request to students in the class at JHU. It will and has changed since then. 
+
+For the official syllabus go to [https://github.com/jmjafrx/blkcodestudies/edit/master/syllabus-schedule.md]
 
 
 #Black Codes Studies: Black History and Digital Media (Spring 2017)
