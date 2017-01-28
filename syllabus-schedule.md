@@ -238,14 +238,14 @@ Week 12
 * Mitchell, Michele. “Silences Broken, Silences Kept: Gender and Sexuality in African-American History.” Gender & History 11, no. 3 (1999): 433–444. doi:10.1111/1468-0424.00154.
 * Smith, Barbara. "A Press of Our Own Kitchen Table: Women of Color Press." Frontiers: A Journal of Women Studies 10, no. 3 (January 1, 1989): 11–13. [Click Here]
 * Gumbs, Alexis Pauline, "Seek the Roots: An Immersive and Interactive Archive of Black Feminist Practice," Feminist Collections (Winter 2011) [Click Here]
-*  Janet Mock | Why We Don't Have More Books By Trans Women of Color | Janet Mock Online [Click Here]
+*  Bailey, Moya. “#transform(ing)DH Writing and Research: An Autoethnography of Digital Humanities and Feminist Ethics” 9, no. 2 (2015). [Click Here](http://www.digitalhumanities.org/dhq/vol/9/2/000209/000209.html)
 * Ramanathan, Lavanya, “Very Smart Brothas Is the Blackest Thing That Ever Happened to the Internet. Period.” The Washington Post, November 21, 2016. [Click Here](https://www.washingtonpost.com/lifestyle/style/very-smart-brothas-is-the-blackest-thing-that-ever-happened-to-the-internet-period/2016/11/21/9b62b5aa-8719-11e6-a3ef-f35afb41797f_story.html)
 
 
 **Apr 20 - Whose Technology?**
 
-* Weheliye, "Engendering Phonographies: Sonic Technologies of Blackness" *Small Axe*
 * Kim Gallon, Black Digital Humanities, "Debates in the Digital Humanities" 2016 [Click Here](http://dhdebates.gc.cuny.edu/debates/text/55)
+* Weheliye, "Engendering Phonographies: Sonic Technologies of Blackness" *Small Axe*
 * Haynes, Tonya. “Mapping Caribbean Cyberfeminisms.” Sx Archipelagos, no. 1 (May 1, 2016). 
 * Wangechi Mutu: http://wangechimutu.com/
 
