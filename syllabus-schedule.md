@@ -201,7 +201,7 @@ Week 10
 
 **Apr 4 -  Black Visual Archives I**
 
-* Handler, Jerome S., and Annis Steiner. �Identifying Pictorial Images of Atlantic Slavery: Three Case Studies.� Slavery & Abolition 27, no. 1 (2006): 51–71.  [Click Here]
+* Handler, Jerome S., and Annis Steiner. "Identifying Pictorial Images of Atlantic Slavery: Three Case Studies." Slavery & Abolition 27, no. 1 (2006): 51–71.  [Click Here]
 * Morgan, Jennifer L. "'Some Could Suckle over Their Shoulder:' Male Travelers, Female Bodies, and the Gendering of Racial Ideology, 1500-1770." The William and Mary Quarterly 54, no. 1 (January 1, 1997): 167–192. [Click Here]
 * “Interview: Kara Walker Decodes Her New World Sphinx at Domino Sugar Factory.” Complex. Accessed January 28, 2017. http://www.complex.com/style/2014/05/kara-walker-interview.
 
@@ -221,7 +221,7 @@ Week 11
 **Apr 11 - Black Visual Archives II**
 
 * Krauthamer and Willis, *Envisioning Emancipation*
-* Dallow, Jessica. "Reclaiming Histories: Betye and Alison Saar, Feminism, and the Representation of Black Womanhood." Feminist Studies 30, no. 1 (April 1, 2004): 75–113. [Click Here]
+* Jones, Kellie, "To/From Los Angeles with Betye Saar." Extending the Frozen Moment 2006
 * “The Lenny Interview: Kimberly Drew, Aka @MuseumMammy.” Lenny Letter, November 27, 2015. [Click Here](http://www.lennyletter.com/culture/interviews/a173/meet-the-instagram-star-elevating-black-contemporary-art/)
 * Jepchumba Fakugesi, "Digital Art Residency," Future Lab Africa Podcast, 2015 [Click Here](http://futurelabafrica.org/episodes/jepchumba/) 
 
