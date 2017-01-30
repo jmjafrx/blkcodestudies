@@ -29,9 +29,9 @@ Dr. Jessica Marie Johnson (jmj@jhu.edu)
 
 ###The Work
 
-Participation - 40% 
-Black Code Studies Lab Logs (20%)
-Final Project + Modules x 4 (40%)
+* Participation - 40% 
+* Black Code Studies Lab Logs (20%)
+* Final Project + Modules x 4 (40%)
 
 ###Final Project - The Black Code Studies Undercommons
 
