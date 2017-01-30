@@ -4,6 +4,8 @@ _This is the analog/PDF copy of the syllabus as finalized on January 30, 2016 an
 
 #Black Codes Studies: Black History and Digital Media (Spring 2017)
 
+![bcs_logo](https://github.com/jmjafrx/blkcodestudies/blob/master/nontext/1482104424780.jpg) 
+
 ##Metadata
 
 Black Code Studies: Black History and Digital Media
