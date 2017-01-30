@@ -25,7 +25,7 @@ Dr. Jessica Marie Johnson (jmj@jhu.edu)
 * A Github account 
 * StackEdit on desktop / SimpleNote on mobile - This is where you will write
 * Slack - This is where you share, play, maybe work 
-* Select social medi accounts, as needed
+* Select social media accounts, as needed
 
 ###The Work
 
