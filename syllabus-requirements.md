@@ -20,45 +20,19 @@ Dr. Jessica Marie Johnson (jmj@jhu.edu)
 
 ###The Tools
 
-* A Google Account (you may create one specifically for this class) to access the BCS Student Drive and for collaboration purposes
-* A Github account (you may create one specifically for this class)
-* Google Chrome on d/m - This is where we will work
-* StackEdit on desktop / SimpleNote on mobile - This is where you will write
-* Slack - This is where you lab (maybe)
+*For any of these, you may create accounts or manage installs specifically for this course*
 
+* A Github account 
+* StackEdit on desktop / SimpleNote on mobile - This is where you will write
+* Slack - This is where you share, play, maybe work 
+* Select social medi accounts, as needed
 
 ###The Work
 
-Black Code Studies Lab Log (%)
-Participation/Discussion Questions (%)
-Team Peer Reviews (%)
-Project Portfolio = 1 x 5 Modules (%)
-Final Oral Exam and Self-Evaluation (%)
+Participation - 40% 
+Black Code Studies Lab Logs (20%)
+Final Project + Modules x 4 (40%)
 
-Black Code Studies Lab Log 
-Weekly - Tuesday
+###Final Project - The Black Code Studies Undercommons
 
-Black Code Studies Lab
-Weekly - Thursday
-
-Participation/Discussion Questions
-weekly
-Team Peer Reviews
-Team evals
-Project Portfolio = 1 x 5 Modules
-* include 1 analog option each?
-
-Final Oral Exam and Self-Evaluation
-* self eval is written
-
-
-The Black Code Studies Undercommons
-
-FINAL PROJECT 
-Design something
-Cumulative 
-A site a space
-Digital Object
-Website
-Short Film
-Mixed media
+Details - TBA
