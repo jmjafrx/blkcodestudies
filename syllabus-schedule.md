@@ -92,13 +92,15 @@ Week 3
 **Feb 16 - Lab Day**
 
 Tumblr Module due by the end of class 
-700-1500 word self-analysis in Markdown, due by midnight
+700-1500 word analysis in Markdown, due by midnight
 
 ----------
 
 ##M2: Twitter
 
 Week 4
+
+Twitter Assignment #1
 
 **Feb 21 - Black Machines**
 
@@ -121,6 +123,8 @@ Week 4
 Week 5
 
 **Feb 28 - Black Blues**
+
+Twitter Assignment #2 Due
 
 * Sharpe, Christina, "Chapter One: The Wake," from *In the Wake: On Blackness and Being*, Duke U Press, 2016
 * Woods, Clyde Adrian. “Do You Know What It Means to Miss New Orleans?: Katrina, Trap Economics, and the Rebirth of the Blues.” American Quarterly 57, no. 4 (January 3, 2006): 1005–18. 
