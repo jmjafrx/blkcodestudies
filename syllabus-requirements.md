@@ -18,6 +18,8 @@ Dr. Jessica Marie Johnson (jmj@jhu.edu)
 
 ##Requirements
 
+![bcslogo2](https://github.com/jmjafrx/blkcodestudies/blob/master/nontext/blackcodestudiescourse.jpg) 
+
 ###The Tools
 
 *For any of these, you may create accounts or manage installs specifically for this course*
