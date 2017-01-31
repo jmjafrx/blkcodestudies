@@ -14,22 +14,6 @@ Syllabus files proceed in this order:
 
 filed: 2017 January 31 | 18:15:55 
 
-Signees: 
-jmj@jhu.edu (Dr. Johnson)
-jack.laylin@gmail.com
-helensong0320@gmail.com
-huynh.megan@gmail.com
-jbrow213@jhu.edu
-serenathomas@jhu.edu
-osmith10@jhu.edu
-aaronjcary@gmail.com
-zsattar1@jhu.edu
-kalston6@jhu.edu
-cnoellekb@gmail.com
-eleanor.strauss@gmail.com
-tbaker33@jhu.edu
-monicalarsen01@gmail.com
-
 ##Article I.        Our expectations of Dr. Johnson is that she should:
 
 * push our current understanding of situations and interactions
