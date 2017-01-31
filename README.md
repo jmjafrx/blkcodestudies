@@ -14,7 +14,7 @@ Syllabus files proceed in this order:
 
 filed: 2017 January 31 | 18:15:55 
 
-Signees
+Signees: 
 jmj@jhu.edu (Dr. Johnson)
 jack.laylin@gmail.com
 helensong0320@gmail.com
