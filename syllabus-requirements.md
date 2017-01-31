@@ -42,11 +42,6 @@ The bulk of your grade is participation. Regular, active participation in all cl
 Silent students and late arrivals receive half credit for that day. Students who don't attend class cannot participate and fail the day. 
 
 TEAMS: At the beginning of the semester, students will be divided into teams. Much of your work will occur in these teams--it is each team and each team member's responsibility to exchange information on the first day, remain in contact, navigate disputes, and divide the workload. [Slack](https://blackcodestudies.slack.com/) has been provided as a workspace for this purpose. 
-
-Each class period, one team presents on the readings for the day. In the [lab_logs](lab_logs) folder, each team should post a list of 4-5 substantive discussion questions for discussion. These questions should draw connections between the different readings, the theme for that week, and discussions held in previous weeks. Team members should be prepared to speak to these questions in class and lead the class in discussion of the readings for the week. Get a conversation going. Debate the issues raised. But be kind to your peers; your turn will come.
-
-These questions must be posted by 12 Noon Day Of. 
- 
  
 ###Final Project - The Black Code Studies Undercommons
 
