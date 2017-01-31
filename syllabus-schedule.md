@@ -162,6 +162,8 @@ Week 7
 
 **Mar 14 - Black Knowing** 
 
+Database Assignment #1 Due
+
 * Pumzi (dir. Wanuri Kahiu) 2009 [Click Here](https://www.youtube.com/watch?v=IlR7l_B86Fc&list=PLrtOtG6W-c0A13SRf3BuW9-An3NeAcig5&index=8)
 * Hairston, Andrea. "Ghost dances on silver screens: Pumzi and Older Than America." Extrapolation, vol. 57, no. 1-2, 2016.
 * Parham, Marisa. “Saying‘ Yes’: Textual Traumas in Octavia Butler’s Kindred.” Callaloo 32, no. 4 (2009): 1315–1331.
@@ -186,6 +188,8 @@ Week 9
 
 **Mar 28 - Coding Black Revolt**
 
+Database Assignment #2 Due
+
 * Brown, Vincent. “Mapping a Slave Revolt Visualizing Spatial History through the Archives of Slavery.” Social Text 33, no. 4 125 (December 1, 2015): 134–41. 
 * Egan, Shannon, "Kara Walker: Harper's Pictorial History of the Civil War (Annotated)" (2013). Schmucker Art Catalogs. Book 2. http://cupola.gettysburg.edu/artcatalogs/2
 * Evergreen Museum - Seventeen Portraits of Black Civil War Soldiers [Click Here](http://www.museums.jhu.edu/evergreen.php?section=exhibitions&exhibition=davidson)
@@ -205,6 +209,7 @@ http://carriemaeweems.net/galleries/from-here.html
 Week 10
 
 **Apr 4 -  Black Visual Archives I**
+
 
 * Handler, Jerome S., and Annis Steiner. "Identifying Pictorial Images of Atlantic Slavery: Three Case Studies." Slavery & Abolition 27, no. 1 (2006): 51–71.  [Click Here]
 * Morgan, Jennifer L. "'Some Could Suckle over Their Shoulder:' Male Travelers, Female Bodies, and the Gendering of Racial Ideology, 1500-1770." The William and Mary Quarterly 54, no. 1 (January 1, 1997): 167–192. [Click Here]
@@ -232,6 +237,8 @@ Week 11
 
 
 **Apr 13 - Lab Day** -- 
+
+Final Project Proposal Due by the end of class
 
 * Work on Final Projects in Teams
 
