@@ -32,7 +32,7 @@ Black Code Studies is about decoding systems of oppression. [Click here](https:/
 
 The material covered will likely make you uncomfortable. And that's fine! We are all here to learn and we are all learning. You are not required to agree with everything you read or everything your peers have to say. You are required to engage and think critically and historically about all of the topics discussed. This course uses histories of people of African descent to think broadly about all forms of difference in the U.S. and around the world. Hopefully these topics interest you and will make for rousing discussions over the course of the semester.
 
-But if you anticipate having difficulty engaging with these topics, this is not be the course for you.
+But if you anticipate having difficulty engaging with these topics, this is not the course for you.
 
 
 ##Goals
