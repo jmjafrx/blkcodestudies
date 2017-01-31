@@ -2,6 +2,8 @@
 
 #Resources
 
+![BCS on Spotify](https://github.com/jmjafrx/blkcodestudies/blob/master/nontext/SpotifyImageHeader.png)
+
 ##The Soundtrack
 
 Black Code Studies EP - Side A [Click here](http://www.newblackmaninexile.net/2017/01/blackcodestudies-ep-a-side.html)
