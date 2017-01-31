@@ -1,7 +1,7 @@
 # blkcodestudies
 Black Code Studies
 
-## syllabus 
+## Syllabus 
 
 Syllabus files proceed in this order:
 
