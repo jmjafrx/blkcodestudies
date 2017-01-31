@@ -35,6 +35,7 @@ The material covered will likely make you uncomfortable. And that's fine! We are
 But if you anticipate having difficulty engaging with these topics, this is not the course for you.
 
 
+
 ##Goals
 
 By the end of the course, students should be able to:
