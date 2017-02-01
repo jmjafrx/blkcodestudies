@@ -114,7 +114,8 @@ Twitter Assignment #1
 **Feb 23 - Black Tech** [B-Side]
 
 * The Last Angel of History (film, 45 minutes) 
-* Akomfrah/Tate reading - TBA
+* Eshun, Kodwo, "Untimely Medi" Nka Journal of Contemporary African Art [See Documents Folder]
+* Tate, Greg, "Black Ontology Now: Dark Matters and Meeting the Lady Gaga Challenge" Black Renaissance Noire) [See Documents Folder]
 * Jamilah Felton and Jess Solomon, "Sally Hemmings Dreams Zine" 2015 [Click Here](http://sallyhemingsdreams.tumblr.com/)
 
 
