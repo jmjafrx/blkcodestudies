@@ -1,5 +1,31 @@
 
 
+#Digital Footprint
+
+Dr. Johnson --
+
+Social Media 
+
+* Twitter: [@jmjafrx](http://twitter.com/jmjafrx)
+* Tumblr: [http://jmjafrx.tumblr.com](http://jmjafrx.tumblr.com)
+* Facebook: [http://facebook.com/jmjafrx](http://facebook.com/jmjafrx)
+
+Digital Media
+
+* [African Diaspora Ph.D.](http://africandiasporaphd.com)
+* [Diaspora Hypertext, the Blog](http://diasporahypertext.com)
+
+Dr. Neal --
+
+Social Media
+
+* Twitter: [@NewBlackMan](http://twitter.com/NewBlackMan)
+
+Digital Media
+
+* [Left of Black](https://www.youtube.com/playlist?list=PLBEF73A21DAA138AF)
+* [New Black Man](http://newblackmaninexile.net)
+
 #Resources
 
 ![BCS on Spotify](https://github.com/jmjafrx/blkcodestudies/blob/master/nontext/SpotifyImageHeader.png)
