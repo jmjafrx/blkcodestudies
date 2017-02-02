@@ -268,7 +268,7 @@ Week 12
 
 * Kim Gallon, Black Digital Humanities, "Debates in the Digital Humanities" 2016 [Click Here](http://dhdebates.gc.cuny.edu/debates/text/55)
 * Weheliye, "Engendering Phonographies: Sonic Technologies of Blackness" *Small Axe*
-* Haynes, Tonya. “Mapping Caribbean Cyberfeminisms.” Sx Archipelagos, no. 1 (May 1, 2016). 
+* Haynes, Tonya. “Mapping Caribbean Cyberfeminisms.” Sx Archipelagos, no. 1 (May 1, 2016). [Click Here](http://smallaxe.net/sxarchipelagos/issue01/haynes-mapping.html)
 * Wangechi Mutu: http://wangechimutu.com/
 
 
