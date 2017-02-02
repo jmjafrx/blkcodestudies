@@ -60,7 +60,7 @@ Week 2
 
 Tumblr Assignment #2 Due
 
-View episode #1 of Underground before arriving to class
+**View episode #1 of Underground before arriving to class**
 
 * Tillet, Salamishah. “In the Shadow of the Castle: (Trans)Nationalism, African American Tourism, and Gorée Island.” Research in African Literatures 40, no. 4 (December 3, 2009): 122–41.
 * Bunch, Lonnie. “The Definitive Story of How the National Museum of African American History and Culture Came to Be.” Smithsonian. Accessed January 11, 2017. http://www.smithsonianmag.com/smithsonian-institution/definitive-story-national-museum-african-american-history-culture-came-be-180960125/.
@@ -112,6 +112,8 @@ Twitter Assignment #1
 * “How Black Lives Matter Uses Social Media to Fight the Power.” WIRED. 2015. [Click Here](https://www.wired.com/2015/10/how-black-lives-matter-uses-social-media-to-fight-the-power/)
 
 **Feb 23 - Black Tech** [B-Side]
+
+**View Last Angel of History before arriving in class**
 
 * The Last Angel of History (film, 45 minutes) 
 * Eshun, Kodwo, "Untimely Medi" Nka Journal of Contemporary African Art [See Documents Folder]
@@ -166,11 +168,15 @@ Week 7
 
 Database Assignment #1 Due
 
+**view Pumzi before arriving to class**
+
 * Pumzi (dir. Wanuri Kahiu) 2009 [Click Here](https://www.youtube.com/watch?v=IlR7l_B86Fc&list=PLrtOtG6W-c0A13SRf3BuW9-An3NeAcig5&index=8)
 * Hairston, Andrea. "Ghost dances on silver screens: Pumzi and Older Than America." Extrapolation, vol. 57, no. 1-2, 2016.
 * Parham, Marisa. “Saying‘ Yes’: Textual Traumas in Octavia Butler’s Kindred.” Callaloo 32, no. 4 (2009): 1315–1331.
 
 **Mar 16 - Space is the Place** [B-Side]
+
+**view Brother from Another Planet, Space Traders, and Black America, Again before arriving to class**
 
 * Brother from Another Planet (dir.)
 * Derrick Bell, "Space Traders" Faces at the Bottom of the Well
@@ -191,6 +197,8 @@ Week 9
 **Mar 28 - Coding Black Revolt**
 
 Database Assignment #2 Due
+
+**visit the Evergreen Museum exhibit "Seventeen Portraits of Black Civil War Soldiers" before arriving to class**
 
 * Brown, Vincent. “Mapping a Slave Revolt Visualizing Spatial History through the Archives of Slavery.” Social Text 33, no. 4 125 (December 1, 2015): 134–41. 
 * Egan, Shannon, "Kara Walker: Harper's Pictorial History of the Civil War (Annotated)" (2013). Schmucker Art Catalogs. Book 2. http://cupola.gettysburg.edu/artcatalogs/2
