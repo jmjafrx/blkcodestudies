@@ -80,9 +80,9 @@ You've done three things at this point --
 * You've (begun) decoding #12YearsASlave
 * You've (begun) coding (in the most basic sense) with Git
 
-###5. Report
+###5. Report - Due IN MARKDOWN FORMAT
 
-Create a new file (i.e. create a new pull request to add a file to the repository). 
+Create a new file (i.e. create a new pull request to add a file to the repository). Name the file anything you wish, but give it an extension of .md for Markdown. Example: Team2Report.md 
 
 * List your annotations of #UndergroundWGN from (#1)
 * Describe your research findings from (#2)
@@ -92,7 +92,7 @@ In at least 750 words, report back on the work you just completed - Use Fields a
 * Barbara Fields wrote: Ideology is the "vocabulary of day-to-day existence, through which people make rough sense of the social reality that they live and create from day to day." What links can you make between ideology, coding and slavery using #12YearsASlave and #UndergroundWGN? 
 * Identify "digital resonances" in 12 Years a Slave and UndergroundWGN - things that would only make sense in the digital era now, but that we can also read as being digital in that moment. 
 * What is the salience of the past (the history of slavery) in this digital moment?
-* * Barbara Fields wrote: Ideology is the "vocabulary of day-to-day existence, through which people make rough sense of the social reality that they live and create from day to day." 
+* Barbara Fields wrote: Ideology is the "vocabulary of day-to-day existence, through which people make rough sense of the social reality that they live and create from day to day." 
 
 
 
