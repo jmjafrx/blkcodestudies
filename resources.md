@@ -1,6 +1,8 @@
 
 
-#Digital Footprint
+#Resources
+
+##Digital Footprint
 
 Dr. Johnson --
 
@@ -26,11 +28,9 @@ Digital Media
 * [Left of Black](https://www.youtube.com/playlist?list=PLBEF73A21DAA138AF)
 * [New Black Man](http://newblackmaninexile.net)
 
-#Resources
-
-![BCS on Spotify](https://github.com/jmjafrx/blkcodestudies/blob/master/nontext/SpotifyImageHeader.png)
-
 ##The Soundtrack
+
+![BCS on Spotify](https://github.com/blackcodestudies/blkcodestudies/blob/master/nontext/SpotifyImageHeader.png?raw=true)
 
 Black Code Studies EP - Side A [Click here](http://www.newblackmaninexile.net/2017/01/blackcodestudies-ep-a-side.html)
 
