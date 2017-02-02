@@ -54,4 +54,14 @@ Markdown Cheatsheet · adam-p/markdown-here Wiki [Click Here](http://bit.ly/2kMp
 >"This is intended as a quick reference and showcase. For more complete info, see John Gruber's original spec and the Github-flavored Markdown info page."
 
 
+##On Black/Diaspora History
 
+[African Diaspora, Ph.D.](http://africandiasporaphd.com)
+ 
+[In Motion: The African-American Migration Experience](http://www.inmotionaame.org/home.cfm)
+ 
+[The Library of Congress:: American Memory:: African American History](http://memory.loc.gov/ammem/browse/ListSome.php?category=African%20American%20History)
+
+[Digital Schomburg](https://www.nypl.org/about/locations/schomburg/digital-schomburg)
+
+ 
