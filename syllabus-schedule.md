@@ -105,7 +105,7 @@ Twitter Assignment #1
 
 **Feb 21 - Black Machines**
 
-* McPherson, Tara. “US Operating Systems at Mid-Century.” In Race after the Internet, edited by Lisa Nakamura and P Chow-White, 2013. 
+* McPherson, Tara. “US Operating Systems at Mid-Century.” In Race after the Internet, edited by Lisa Nakamura and P Chow-White, 2013. [Click Here--PDF not available in Documents Folder](https://www.dropbox.com/s/fajypi47lds1pwj/McPherson%20Race%20UNIX%20Machines.pdf?dl=0)
 * Chude-Sokei, Louis. “The Uncanny History of Minstrels and Machines, 1835-1923,” edited by Stephen Johnson, 104–32. Univ of Massachusetts Press, 2012.
 * “On Its 10th Birthday, a Short History of Twitter in Tweets | WIRED.” Accessed January 12, 2017. [Click here](https://www.wired.com/2016/03/10th-birthday-short-history-twitter-tweets/)
 * Sanders, Sam. “How Black People May Or May Not Use Twitter.” 2010 NPR.org -  [Click](http://www.npr.org/sections/alltechconsidered/2010/08/16/129235517/how-black-people-may-or-may-not-use-twitter)
