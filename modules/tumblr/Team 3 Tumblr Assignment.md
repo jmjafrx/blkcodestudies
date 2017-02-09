@@ -184,6 +184,11 @@ Exploring through the Underground WGN Tumblr tag first and foremost definitely m
 **Other Media**: There are specific Tumblrs dedicated to Underground, including u/dailyunderground, that posts posts daily about the history of the underground railroad, promotional photos, photos of press events, etc. I was glad to see discussion about the history regarding the show, as it means the show has sparked renewed interest in the era.
 
 # Report
+**Digital Resonances**
+-------
+In **12 Years A Slave** there is a scene where Solomon walks into a shop and is greeted by the store clerk as "sir". The camera pans to a black man walking into the store and looking at Solomon and his family with a mix of confusion and amazement as he is seen decoding his own, as well as Solomon's, blackness by coming to the realization that Solomon is a free man. His master then comes into the store and scolds him only to notice Solomon interacting with the white store owner as equals. He too decodes what blackness is through the eyes of a man who only sees blackness as something to be bought and sold. The way that this scene is shot shows the digital resonance of decoding blackness in that day and age through the lens of a slave and a slave owner and the way we process the interaction through the movie screen.
+
+**Underground WGN** opens with the song Black Skinhead by Kanye West, which sets a certain mood for the viewers, which is supposed to be synonymous to how certain characters feel. The digital resonance between the viewing and listening experience of the opening music and the content of the show is supposed to start off the experience with suspense and discomfort to align with the distressing subject matter.
 
 ## 2. Barbara Fields wrote: Ideology is the "vocabulary of day-to-day existence, through which people make rough sense of the social reality that they live and create from day to day." What links can you make between ideology, coding and slavery using #12YearsASlave and #UndergroundWGN?
 
