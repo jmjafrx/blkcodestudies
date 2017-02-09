@@ -183,9 +183,9 @@ Exploring through the Underground WGN Tumblr tag first and foremost definitely m
 
 **Other Media**: There are specific Tumblrs dedicated to Underground, including u/dailyunderground, that posts posts daily about the history of the underground railroad, promotional photos, photos of press events, etc. I was glad to see discussion about the history regarding the show, as it means the show has sparked renewed interest in the era.
 
+# Report
 
-
-# 2. Barbara Fields wrote: Ideology is the "vocabulary of day-to-day existence, through which people make rough sense of the social reality that they live and create from day to day." What links can you make between ideology, coding and slavery using #12YearsASlave and #UndergroundWGN?
+## 2. Barbara Fields wrote: Ideology is the "vocabulary of day-to-day existence, through which people make rough sense of the social reality that they live and create from day to day." What links can you make between ideology, coding and slavery using #12YearsASlave and #UndergroundWGN?
 
 Two ideological beliefs influence the narratives of 12 Years A Slave and Underground from within the narrative and from editorial decisions: religion and agency.
 Religion a tightly held, but flexible ideology. It suits the needs of many, especially those on opposing sides. Men like Epps and Ford use biblical anecdotes to legitimize their rule over their slaves, while Solomon holds to religion, believing that through faith he might be able to rejoin his family. In Underground, Noah suggests that a benevolent God would not allow his people to be forced into such a condition, but later leverages the preacher’s own religious beliefs to coerce him into deciphering the code to find the way to freedom.
@@ -194,7 +194,7 @@ In the case of 12 Years A Slave, however, Solomon displays agency in his enginee
 
 
 
-# 3. What is the salience of the past (the history of slavery) in this digital moment?
+## 3. What is the salience of the past (the history of slavery) in this digital moment?
 
 In this digital moment more than ever, producers search for the latest inspiration to create the latest hit show that distinguishes itself from all others. In recent years particularly, writers have turned towards the past to revamp history in a new way that appeals to viewers like never before though new media platforms. This trend can be seen in both film and television series, with Selma, 12 Years a Slave, Lincoln, Django Unchained, Pope Francis, The People v. O.J. Simpson, Downtown Abbey, The Crown, and in this case specifically, Underground. The past has proven to make a comeback bigger than ever before, thanks to an unprecedented access to information made possible by the Internet and seamless communication across the world in a matter of seconds.
 The salience of the history of slavery in this digital moment has proven particularly important as more studies and personal accounts of slavery have come to the surface, and the latest technologies have brought these personal experiences to life seeming and looking almost completely realistic and believable on the big screen. Additionally, in the increasingly diverse world we live in, it is important for writers and producers to take advantage of the salience of the past in order to understand how much we have developed historically from the times of slavery and the Civil Rights movement, but also how much room for improvement and acceptance remains. It is also important to realize how these stories of racism and dehumanizing treatment is not far from our realities, and to ascertain how relatable these characters are.
