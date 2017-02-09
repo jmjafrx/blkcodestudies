@@ -51,12 +51,13 @@ Finally - each project must also link to the other. Your ICB will play an import
 ##Team Preparation
 
 Each Team must designate one member to the following positions:
-Intergalactic Coordinator of Blackness - Inter-Team Liaison
-Professor Liaison 
+* Intergalactic Coordinator of Blackness - Inter-Team Liaison
+* Professor Liaison 
 
 Github and Slack are your basecamps. Use them to coordinate with your teams and with me.
 
 ##Annotated Bibliography 
+
 POSTED ON GITHUB - Due April 13, 2017
 
 Compile a list of pre-digital/analog sources that exemplify/carry/represent digital resonances (or hauntings) of the digital moment.
