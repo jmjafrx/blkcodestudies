@@ -22,6 +22,14 @@ Runaways is a collection of interviews with formerly enslaved African Americans.
 
 ##Reflection
 
+These articles/video all focus on runaway and free slaves. It is important to have these narratives because they focus on the successes of enslaved black men and women, rather than repeatedly memorializing the horrors of the slave owners. While it is vital that the brutality of slavery is never forgotten, the honoring of slaves is achieved through remembering the triumphs of former slaves. 
+
 ##Expand
 
+http://www.cnn.com/2017/02/13/entertainment/adele-beyonce-racism/index.html "Is Racism Why Adele Beat Beyonce" This article jumped out at me because while I was watching the Grammy's, I was stunned at Beyonce's beautiful performance and thought that she should have won album of the year. Apparently Adele thought the same thing. 
+
 ##Question
+
+- Why do you think there was such a big difference between the black and white gaze that Cobb talked about in the video? Do you think white people noticed when they're being disrespectful and negative with their portrayal of freed slaves?
+- How do you think Anthony Chase learned to read and write on the plantation? Although there are grammatical and spelling errors, the writing was up to par with many free white folks at the time.
+- Why would Anthony Chase apologize to his master for running away when he doesn't plan on ever seeing him again?
