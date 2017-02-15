@@ -65,7 +65,9 @@ Compile a list of pre-digital/analog sources that exemplify/carry/represent digi
 * 5 text and 2 non-text items 
 * 2-3 sentences of explanation
 
+##Individual Analysis
 
+Incoming...
 
 
 
