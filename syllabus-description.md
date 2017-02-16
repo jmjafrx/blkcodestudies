@@ -16,7 +16,7 @@ Tuesday and Thursday
 
 3:00 - 4:15 p (Spring 2017)
 
-Dr. Jessica Marie Johnson (jmj@jhu.edu)
+Dr. Jessica Marie Johnson (jmj@jhu.edu) - Office hours, 2 pm T/Th
 
 ##Description
 
