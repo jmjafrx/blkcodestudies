@@ -16,7 +16,7 @@ Sanders, Sam. “How Black People May Or May Not Use Twitter.” 2010 NPR.org
 
 McPherson, Tara. “US Operating Systems at Mid-Century.” In Race after the Internet, edited by Lisa Nakamura and P Chow-White, 2013 
 
-- Tara McPherson’s chapter “US Operating Systems at Mid-Century” serves to analyze and insist highlight the entanglement of race and UNIX, an operating system created in the 1960s. The creation of this platform, and other major events like the assassination of Martin Luther King Jr. or Black Panthers are contemporaries. Finding the connection between these events is difficult, partly because of the “lenticular” way began to understand the world around us: by “privileging fragmentation” which in turn “suppresses relation and context” (25). 
+- Tara McPherson’s chapter “US Operating Systems at Mid-Century” serves to analyze and insist highlight the entanglement of race and UNIX, an operating system created in the 1960s. The creation of this platform, and other major events like the assassination of Martin Luther King Jr. or Black Panthers are contemporaries. Finding the connection between these events is difficult, partly because of the “lenticular” way people began to understand the world: by “privileging fragmentation” which in turn “suppresses relation and context” (25). 
 
 - Coders began to value the detachment of programs which would simplify implementation and consequently the programs themselves. This was often denoted with the use of pipes in code languages (x). Socially, “rules of modularity” were used to “decrease ‘global complexity’” like with “Whites only” signs (30).
 
