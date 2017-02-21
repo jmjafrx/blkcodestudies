@@ -10,3 +10,5 @@ Feb 7: [https://etherpad.net/p/bcsday3](https://etherpad.net/p/bcsday3) (Timekee
 Feb 9: [https://etherpad.net/p/bcsday4](https://etherpad.net/p/bcsday4) (Timekeeper: Turquoise ; Notetaker: Ellie )
 
 Feb 14: [https://etherpad.net/p/bcsday5](https://etherpad.net/p/bcsday5) (Timekeeper: JB; Notetaker: Turquoise )
+
+Feb 21: [https://etherpad.net/p/bcsblackmachines](https://etherpad.net/p/bcsblackmachines) (Timekeeper: ; Notetaker: )
