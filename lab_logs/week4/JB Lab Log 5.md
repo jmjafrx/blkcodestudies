@@ -3,7 +3,7 @@
 
 **Overview**
 
-The Last Angle of History
+The Last Angel of History
 
 In this exceptionally unique documentary, Black futurist visual artists provide an historical account of the intersections of tech and Black cultural expression. The documentarian uses George Clinton, Sun Ra and another artist as the foundations for the meeting of Black art and technology. Specifically, this documentary approaches this convergence through Black science fiction. Africa assumes a dual identity, one that is continent lost to a dark past and the other a land with an unknown future. A variety of interviewees spoke on the importance of spaceships as a vehicle for exploration into territory to claim for Black Americans, as reflected on a Parliament Funkadellic album. Viewers also are informed of the strides NASA made to integrate its facilities with the assistance’s of Nicholle Thomas of Star Trek fame. Next, we witnessed Bernard Harris speak on the visual importance of him being on the moon with a flag of all nations in Africa. This act was a symbolic gesture signifying an African claim to humanity. Finally, several interviewees made the argument that the Black existence and science fiction are not distinct entitles. The alien abductions, genetic mutations, alienation, and other themes of sci fi are the lived experiences of Black Americans. 
 
@@ -28,6 +28,8 @@ I thought Octavia Butler’s statement on the two incompatible character traits 
 In response to Dikshant’s third question, I think artists (visual and audio) have always severed as the challengers to societal decay. Artists should produce works with meaning, even if that work is critical of a regime or ideology that may be “popular.” However, I have low expectations for artists to undertake their responsibility. Greenbacks are king, money is power. If we examine Beyoncé’s recent political awakening, it is recent. As someone who’s mother blasted Destiny’ Child and early Beyoncé music as a child, I do not remember a political tone or social message in her early week. It is only when we see Beyoncé transcend her nascent stage of mainstream celebrity that she became this politically charged person or an artist with a message. 
 
 **Expand**
+
+![enter image description here](https://lh3.googleusercontent.com/-lF2jq_Zcx0s/WK8uBM4yi-I/AAAAAAAAAZ0/fNoSvY5k5FcOpgDtBLU4ZEdbIxxPKbWpQCLcB/s0/Old+Harlem.jpg "Old Harlem.jpg")
 
 Tate mentioned Harlem and its culture happenings. Gentrification is not the subject of Tate’s piece, but that practice has destroyed a lot of the Black culture of my youth. For example, the photo either above or below is a book stand on 125th street. Growing up, these bookstands adorned 125th street and offered residents books on Black political theory, adult novels and even natural herbs and incense as a rejection of the more commercial air freshener devices. Today, these bookstands are a rare site. 
 
