@@ -116,8 +116,8 @@ Twitter Assignment #1
 **View Last Angel of History before arriving in class**
 
 * The Last Angel of History (film, 45 minutes) 
-* Eshun, Kodwo, "Untimely Medi" Nka Journal of Contemporary African Art [See Documents Folder]
-* Tate, Greg, "Black Ontology Now: Dark Matters and Meeting the Lady Gaga Challenge" Black Renaissance Noire) [See Documents Folder]
+* Eshun, Kodwo, "Untimely Meditations: Reflections on the Black Audio. Film Collective," Nka Journal of Contemporary African Art, 2004. [See Documents Folder]
+* Tate, Greg, "Black Ontology Now: Dark Matters and Meeting the Lady Gaga Challenge" Black Renaissance Noire, Spring 2011 [See Documents Folder]
 * Jamilah Felton and Jess Solomon, "Sally Hemmings Dreams Zine" 2015 [Click Here](http://sallyhemingsdreams.tumblr.com/)
 
 
