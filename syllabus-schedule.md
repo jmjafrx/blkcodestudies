@@ -127,14 +127,17 @@ Twitter Assignment #1
 Week 5
 
 **Feb 28 - Black Blues**
+*Meet in BLC4040*
 
-Twitter Assignment #2 Due
+~~Twitter Assignment #2 Due ~~
+Revised Lab Log - See instructions in lab_log/week5
 
 * Sharpe, Christina, "Chapter One: The Wake," from *In the Wake: On Blackness and Being*, Duke U Press, 2016
 * Woods, Clyde Adrian. “Do You Know What It Means to Miss New Orleans?: Katrina, Trap Economics, and the Rebirth of the Blues.” American Quarterly 57, no. 4 (January 3, 2006): 1005–18. 
 
 
 **Mar 2 - Black Struggle**
+*Meet in BLC4040*
 
 * Freelon, Deen Goodwin, Charlton D. McIlwain, and Meredith D. Clark. “Beyond the Hashtags:# Ferguson,# Blacklivesmatter, and the Online Struggle for Offline Justice.” Available at SSRN, 2016. [Click Here](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2747066)
 * Kelley, Robin D. G. “Black Study, Black Struggle.” Boston Review, March 7, 2016. [Click Here](http://bostonreview.net/forum/robin-d-g-kelley-black-study-black-struggle)
