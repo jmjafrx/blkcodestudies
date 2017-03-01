@@ -12,7 +12,7 @@
 # Expand
   ![alt text](http://ichef.bbci.co.uk/news/976/cpsprodpb/7FF2/production/_90345723_mediaitem90345722.jpg "Logo Title Text 1") Although I'm sure everyone has seen this photo, it is such a powerful juxtapositon of peaceful Black life and militarized law enforcement that represents all of the peaceful Black lives that have been taken at the hands of police.
 # Comment
-  
+  In response to Jack's question from last week, I think that the Oscar's this year made an effort to diversify the nominees, but that doesn't necessarily mean that they felt remorse. After the backlash from #OscarsSoWhite , I'm sure the Academy made a point to not have to deal with activists speaking out against their extremely non-diverse nominees and winnters. 
 # Question
   1. Why do you think that a marginalized group such as Black males would knowingly ignore the plight of other marginalized groups within the Black Lives Matter movement?
   2. Why is the Black Lives Matter movement so much more well known than other Black activist movements? 
