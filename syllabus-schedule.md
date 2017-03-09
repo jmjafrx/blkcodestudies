@@ -158,32 +158,32 @@ Week 6
 
 **Mar 9 - Lab Day**
 
-Twitter Module due by the end of class
-700-1500 word self-analysis in Markdown, due by midnight
+Twitter Module Recap - See you in class
 
 ----------
 
-##M3: Black Data 
 
 Week 7 
 
 **Mar 14 - Black Knowing** 
 
-Database Assignment #1 Due
+* Derrick Bell, "Space Traders" Faces at the Bottom of the Well
+* McMillan, Uri. “Ellen Craft’s Radical Techniques of Subversion.” E-Mésferica 5, no. 2 (2008). [Click Here](http://hemisphericinstitute.org/hemi/en/e-misferica-52/mcmillan)
+* REVISIT: Crockett, I’Nasah. “‘Raving Amazons’: Antiblackness and Misogynoir in Social Media.” Model View Culture. Accessed January 12, 2017. [Click here](https://modelviewculture.com/pieces/raving-amazons-antiblackness-and-misogynoir-in-social-media)
 
-**view Pumzi before arriving to class**
-
-* Pumzi (dir. Wanuri Kahiu) 2009 [Click Here](https://www.youtube.com/watch?v=IlR7l_B86Fc&list=PLrtOtG6W-c0A13SRf3BuW9-An3NeAcig5&index=8)
-* Hairston, Andrea. "Ghost dances on silver screens: Pumzi and Older Than America." Extrapolation, vol. 57, no. 1-2, 2016.
-* Parham, Marisa. “Saying‘ Yes’: Textual Traumas in Octavia Butler’s Kindred.” Callaloo 32, no. 4 (2009): 1315–1331.
 
 **Mar 16 - Space is the Place** [B-Side]
 
-**view Brother from Another Planet, Space Traders, and Black America, Again before arriving to class**
+**view Brother from Another Planet, Pumzi, and Black America, Again before arriving to class**
 
-* Brother from Another Planet (dir.)
-* Derrick Bell, "Space Traders" Faces at the Bottom of the Well
+* Pumzi (dir. Wanuri Kahiu) 2009 [Click Here](https://www.youtube.com/watch?v=IlR7l_B86Fc&list=PLrtOtG6W-c0A13SRf3BuW9-An3NeAcig5&index=8)
+* Brother from Another Planet (dir. John Sayles) 
 * Black America, Again (Common), 2016 [Click Here](https://www.youtube.com/watch?v=WMNyCNdgayE)
+
+Tools for today:
+[Twitter Archiver](https://chrome.google.com/webstore/detail/twitter-archiver/pkanpfekacaojdncfgbjadedbggbbphi?hl=en)
+[IFTTT Twitter Archiver Applet](https://ifttt.com/applets/122162p-collect-all-your-tweets-with-a-specific-hashtag-in-a-google-spreadsheet)
+
 
 ---
 
@@ -197,9 +197,11 @@ No class
 
 Week 9
 
+##M3: Black Data 
+
 **Mar 28 - Coding Black Revolt**
 
-Database Assignment #2 Due
+Database Assignment #1 Due
 
 **visit the Evergreen Museum exhibit "Seventeen Portraits of Black Civil War Soldiers" before arriving to class**
 
