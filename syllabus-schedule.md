@@ -165,24 +165,29 @@ Twitter Module Recap - See you in class
 
 Week 7 
 
-**Mar 14 - Black Knowing** 
+**Mar 14 - Black Knowing** - Snow day/class cancelled
 
 * Derrick Bell, "Space Traders" Faces at the Bottom of the Well
 * McMillan, Uri. “Ellen Craft’s Radical Techniques of Subversion.” E-Mésferica 5, no. 2 (2008). [Click Here](http://hemisphericinstitute.org/hemi/en/e-misferica-52/mcmillan)
 * REVISIT: Crockett, I’Nasah. “‘Raving Amazons’: Antiblackness and Misogynoir in Social Media.” Model View Culture. Accessed January 12, 2017. [Click here](https://modelviewculture.com/pieces/raving-amazons-antiblackness-and-misogynoir-in-social-media)
 
+MANDATORY (because of canceled class)
+**March 15 - BCS Film Series**
 
-**Mar 16 - Space is the Place** [B-Side]
+* Space Traders
+* Brother from Another Planet
+*bring computers or device to participate in group live tweeting assignment*
 
-**view Brother from Another Planet, Pumzi, and Black America, Again before arriving to class**
+**Mar 16 - Space is the Place** [B-Side - in person visits from Dr. Mark Anthony Neal, Dr. Marisa Parham, and Mr. Pierre Bennu]
 
-* Pumzi (dir. Wanuri Kahiu) 2009 [Click Here](https://www.youtube.com/watch?v=IlR7l_B86Fc&list=PLrtOtG6W-c0A13SRf3BuW9-An3NeAcig5&index=8)
-* Brother from Another Planet (dir. John Sayles) 
-* Black America, Again (Common), 2016 [Click Here](https://www.youtube.com/watch?v=WMNyCNdgayE)
+* Viewing on March 15: Brother from Another Planet (dir. John Sayles) 
+* We will now view this IN CLASS: Pumzi (dir. Wanuri Kahiu) 2009 [Click Here](https://www.youtube.com/watch?v=IlR7l_B86Fc&list=PLrtOtG6W-c0A13SRf3BuW9-An3NeAcig5&index=8) and Black America, Again (Common), 2016 [Click Here](https://www.youtube.com/watch?v=WMNyCNdgayE)
+* REVISIT: [Black Moses Barbie (view all three commercials)](https://www.youtube.com/watch?v=lnZagD_jBH4) 
+* Parham, Marisa. “Saying‘ Yes’: Textual Traumas in Octavia Butler’s Kindred.” Callaloo 32, no. 4 (2009): 1315–1331. [Documents Folder]
 
 Tools for today:
-[Twitter Archiver](https://chrome.google.com/webstore/detail/twitter-archiver/pkanpfekacaojdncfgbjadedbggbbphi?hl=en)
-[IFTTT Twitter Archiver Applet](https://ifttt.com/applets/122162p-collect-all-your-tweets-with-a-specific-hashtag-in-a-google-spreadsheet)
+* [Twitter Archiver](https://chrome.google.com/webstore/detail/twitter-archiver/pkanpfekacaojdncfgbjadedbggbbphi?hl=en)
+* [IFTTT Twitter Archiver Applet](https://ifttt.com/applets/122162p-collect-all-your-tweets-with-a-specific-hashtag-in-a-google-spreadsheet)
 
 
 ---
