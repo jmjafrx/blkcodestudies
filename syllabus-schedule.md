@@ -171,14 +171,13 @@ Week 7
 * McMillan, Uri. “Ellen Craft’s Radical Techniques of Subversion.” E-Mésferica 5, no. 2 (2008). [Click Here](http://hemisphericinstitute.org/hemi/en/e-misferica-52/mcmillan)
 * REVISIT: Crockett, I’Nasah. “‘Raving Amazons’: Antiblackness and Misogynoir in Social Media.” Model View Culture. Accessed January 12, 2017. [Click here](https://modelviewculture.com/pieces/raving-amazons-antiblackness-and-misogynoir-in-social-media)
 
-MANDATORY (because of canceled class)
-**March 15 - BCS Film Series**
-
+**March 15 - BCS Film Series - MANDATORY (because of canceled class)**
 * Space Traders
 * Brother from Another Planet
+
 *bring computers or device to participate in group live tweeting assignment*
 
-**Mar 16 - Space is the Place** [B-Side - in person visits from Dr. Mark Anthony Neal, Dr. Marisa Parham, and Mr. Pierre Bennu]
+**Mar 16 - Space is the Place [with B-Side - in person visits from Dr. Mark Anthony Neal, Dr. Marisa Parham, and Mr. Pierre Bennu]**
 
 * Viewing on March 15: Brother from Another Planet (dir. John Sayles) 
 * We will now view this IN CLASS: Pumzi (dir. Wanuri Kahiu) 2009 [Click Here](https://www.youtube.com/watch?v=IlR7l_B86Fc&list=PLrtOtG6W-c0A13SRf3BuW9-An3NeAcig5&index=8) and Black America, Again (Common), 2016 [Click Here](https://www.youtube.com/watch?v=WMNyCNdgayE)
