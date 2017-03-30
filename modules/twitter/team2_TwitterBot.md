@@ -1,5 +1,6 @@
 #Twitter Mod: Black Art
-###Team 3: Kwame Alston, Jonathan Brown, Megan Huynh, Jack Laylin Dikshant Malla, Zoya Sattar
+
+###Team 2: Kwame Alston, Jonathan Brown, Megan Huynh, Jack Laylin Dikshant Malla, Zoya Sattar
 
 1. What is the goal of the bot you created? What work do you want it to do?
 
