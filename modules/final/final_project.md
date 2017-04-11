@@ -58,18 +58,24 @@ Github and Slack are your basecamps. Use them to coordinate with your teams and 
 
 ## Annotated Bibliography 
 
-POSTED ON GITHUB - Due April 13, 2017
+POSTED ON GITHUB - First Draft April 20, 2017; Final Due day of Final Presentation
 
 Compile a list of pre-digital/analog sources that exemplify/carry/represent digital resonances (or hauntings) of the digital moment.
 
 * 5 text and 2 non-text items 
 * 2-3 sentences of explanation
 
-##Individual Analysis
+##Individual Analysis - Due by midnight, day of presentation
 
-Incoming...
+Same as always....
 
+* How did the project your Team created represent/do/enact (verb is your choice) Black Code Studies (this should be the longest answer, at least 750 words)
+* What process did your Team use to create your project?
+* How did you participate in that process?
+* What roles and responsibilities did members of the Team have? How were they defined?
+* Is there anything else you want to add about the assignment, the final product, or your work with the team?
 
+A reminder that your individual analysis is your opportunity to send me a private report of your work and reflect on anything missing from the final project itself. 
 
 
 
