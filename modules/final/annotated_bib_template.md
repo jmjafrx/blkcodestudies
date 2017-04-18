@@ -34,8 +34,6 @@ Ruddick's essay, in memory of Clyde Woods death, summarizes Woods work on blues 
 
 ![Saar Cotton Eater Entry #1](https://github.com/blackcodestudies/blkcodestudies/modules/final/Saar_Cotton-Eater-head.png)
 
-![GitHub Logo](/images/logo.png)
-
 Alison Saar is the daughter of another artist we discussed in class, Betye Saar. Her multimedia work *Cotton Eater* is an example of the kind of work we want to showcase on our black art Tumblr, and, with its vestiges of slavery, Jim Crow, and black death, an example of how Black Code Studies might operate in analog art form. 
 
 * Crissle and Kid Fury, "[You're Just a Baby Boy](https://soundcloud.com/theread/youre-just-a-baby-boy)," *This is the Read*, New York, NY, 2016 
