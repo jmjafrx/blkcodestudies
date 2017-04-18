@@ -28,7 +28,7 @@ Ruddick's essay, in memory of Clyde Woods death, summarizes Woods work on blues 
 
 *Non-Text entries in Chicago Style are trickier - see this guide. Information that must be present: creator/artist, title, year, gallery, copyright for the image you are using if applicable. Also best to include a copy of the entry (embed image or link to video/audio)*
 
-* Alison Saar, *Cotton Eater*, 2013; ceramic, acrylic, graphite, and cotton balls; Museum of the African Diaspora, New York; Copyright Alison Saar, Images courtesy of L.A. Louver, Venice, CA
+* Alison Saar, [*Cotton Eater*](https://www.moadsf.org/wp-content/uploads/2015/09/Cotton-Eater-head.jpg?82131a), 2013; ceramic, acrylic, graphite, and cotton balls; Museum of the African Diaspora, New York; Copyright Alison Saar, Images courtesy of L.A. Louver, Venice, CA
 
 ![Saar](https://www.moadsf.org/wp-content/uploads/2015/09/Cotton-Eater-head.jpg?82131a)
 
