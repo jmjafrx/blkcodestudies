@@ -15,4 +15,6 @@ Feb 21: [https://etherpad.net/p/bcsblackmachines](https://etherpad.net/p/bcsblac
 
 Mar 30: [https://etherpad.net/p/bcsnumbersgame](https://etherpad.net/p/bcsnumbersgame) 
 
-Apr 4: [bcsblackvisualarchivesi](bcsblackvisualarchivesi) 
+Apr 4: [https://etherpad.net/p/bcsblackvisualarchivesi](bcsblackvisualarchivesi) 
+
+Apr 18: [https://etherpad.net/p/bcsdesigningnarratives](https://etherpad.net/p/bcsdesigningnarratives)
