@@ -7,6 +7,7 @@ Your guidelines are as follows:
 1. Submit a Markdown file with a link to the final project for review.
 2. Add to this folder any supplementary files or documents you created that you'd like to be part of your evaluation. Examples: Any videos, podcast files, research notes (group or individual), outlines, image files, csv files, data sets, even external websites that inspired the project, etc. that your team used to craft and develop the final project. 
 3. Feel free to add any individual notes or reflections on your team or the work you created here as well.
+4. 500 word Individual Reflections on the project and/or the class should be sent to me by email jmj@jhu.edu. This is your final opportunity to address to me, privately, anything you need to about the project, your team, or the course as a whole.
 
 Consider this your final project submission, but also a folder of the research you did to bring the project together into its current form. The research notes and material don't have to be well composed or organized. They can be messy. What you want is for me to be able to see and follow your process easily. 
 
