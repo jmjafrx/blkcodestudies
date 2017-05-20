@@ -1,6 +1,7 @@
 _This is the analog/PDF copy of the syllabus as finalized on January 30, 2016 and distributed by request to students in the class at JHU. It will and has changed since then. 
 
-For the official syllabus go to [https://github.com/jmjafrx/blkcodestudies/edit/master/syllabus-schedule.md]
+For the official syllabus go to [click](https://github.com/blackcodestudies/blkcodestudies/)
+
 
 
 #Black Codes Studies: Black History and Digital Media (Spring 2017)
@@ -59,7 +60,7 @@ Week 2
 
 Tumblr Assignment #2 Due
 
-View episode #1 of Underground before arriving to class
+**View episode #1 of Underground before arriving to class**
 
 * Tillet, Salamishah. “In the Shadow of the Castle: (Trans)Nationalism, African American Tourism, and Gorée Island.” Research in African Literatures 40, no. 4 (December 3, 2009): 122–41.
 * Bunch, Lonnie. “The Definitive Story of How the National Museum of African American History and Culture Came to Be.” Smithsonian. Accessed January 11, 2017. http://www.smithsonianmag.com/smithsonian-institution/definitive-story-national-museum-african-american-history-culture-came-be-180960125/.
@@ -104,7 +105,7 @@ Twitter Assignment #1
 
 **Feb 21 - Black Machines**
 
-* McPherson, Tara. “US Operating Systems at Mid-Century.” In Race after the Internet, edited by Lisa Nakamura and P Chow-White, 2013. 
+* McPherson, Tara. “US Operating Systems at Mid-Century.” In Race after the Internet, edited by Lisa Nakamura and P Chow-White, 2013. [Click Here--PDF not available in Documents Folder](https://www.dropbox.com/s/fajypi47lds1pwj/McPherson%20Race%20UNIX%20Machines.pdf?dl=0)
 * Chude-Sokei, Louis. “The Uncanny History of Minstrels and Machines, 1835-1923,” edited by Stephen Johnson, 104–32. Univ of Massachusetts Press, 2012.
 * “On Its 10th Birthday, a Short History of Twitter in Tweets | WIRED.” Accessed January 12, 2017. [Click here](https://www.wired.com/2016/03/10th-birthday-short-history-twitter-tweets/)
 * Sanders, Sam. “How Black People May Or May Not Use Twitter.” 2010 NPR.org -  [Click](http://www.npr.org/sections/alltechconsidered/2010/08/16/129235517/how-black-people-may-or-may-not-use-twitter)
@@ -112,8 +113,11 @@ Twitter Assignment #1
 
 **Feb 23 - Black Tech** [B-Side]
 
+**View Last Angel of History before arriving in class**
+
 * The Last Angel of History (film, 45 minutes) 
-* Akomfrah/Tate reading - TBA
+* Eshun, Kodwo, "Untimely Meditations: Reflections on the Black Audio. Film Collective," Nka Journal of Contemporary African Art, 2004. [See Documents Folder]
+* Tate, Greg, "Black Ontology Now: Dark Matters and Meeting the Lady Gaga Challenge" Black Renaissance Noire, Spring 2011 [See Documents Folder]
 * Jamilah Felton and Jess Solomon, "Sally Hemmings Dreams Zine" 2015 [Click Here](http://sallyhemingsdreams.tumblr.com/)
 
 
@@ -123,14 +127,17 @@ Twitter Assignment #1
 Week 5
 
 **Feb 28 - Black Blues**
+*Meet in BLC4040*
 
-Twitter Assignment #2 Due
+~~Twitter Assignment #2 Due ~~
+Revised Lab Log - See instructions in lab_log/week5
 
 * Sharpe, Christina, "Chapter One: The Wake," from *In the Wake: On Blackness and Being*, Duke U Press, 2016
 * Woods, Clyde Adrian. “Do You Know What It Means to Miss New Orleans?: Katrina, Trap Economics, and the Rebirth of the Blues.” American Quarterly 57, no. 4 (January 3, 2006): 1005–18. 
 
 
 **Mar 2 - Black Struggle**
+*Meet in BLC4040*
 
 * Freelon, Deen Goodwin, Charlton D. McIlwain, and Meredith D. Clark. “Beyond the Hashtags:# Ferguson,# Blacklivesmatter, and the Online Struggle for Offline Justice.” Available at SSRN, 2016. [Click Here](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2747066)
 * Kelley, Robin D. G. “Black Study, Black Struggle.” Boston Review, March 7, 2016. [Click Here](http://bostonreview.net/forum/robin-d-g-kelley-black-study-black-struggle)
@@ -151,28 +158,36 @@ Week 6
 
 **Mar 9 - Lab Day**
 
-Twitter Module due by the end of class
-700-1500 word self-analysis in Markdown, due by midnight
+Twitter Module Recap - See you in class
 
 ----------
 
-##M3: Black Data 
 
 Week 7 
 
-**Mar 14 - Black Knowing** 
+**Mar 14 - Black Knowing** - Snow day/class cancelled
 
-Database Assignment #1 Due
-
-* Pumzi (dir. Wanuri Kahiu) 2009 [Click Here](https://www.youtube.com/watch?v=IlR7l_B86Fc&list=PLrtOtG6W-c0A13SRf3BuW9-An3NeAcig5&index=8)
-* Hairston, Andrea. "Ghost dances on silver screens: Pumzi and Older Than America." Extrapolation, vol. 57, no. 1-2, 2016.
-* Parham, Marisa. “Saying‘ Yes’: Textual Traumas in Octavia Butler’s Kindred.” Callaloo 32, no. 4 (2009): 1315–1331.
-
-**Mar 16 - Space is the Place** [B-Side]
-
-* Brother from Another Planet (dir.)
 * Derrick Bell, "Space Traders" Faces at the Bottom of the Well
-* Black America, Again (Common), 2016 [Click Here](https://www.youtube.com/watch?v=WMNyCNdgayE)
+* McMillan, Uri. “Ellen Craft’s Radical Techniques of Subversion.” E-Mésferica 5, no. 2 (2008). [Click Here](http://hemisphericinstitute.org/hemi/en/e-misferica-52/mcmillan)
+* REVISIT: Crockett, I’Nasah. “‘Raving Amazons’: Antiblackness and Misogynoir in Social Media.” Model View Culture. Accessed January 12, 2017. [Click here](https://modelviewculture.com/pieces/raving-amazons-antiblackness-and-misogynoir-in-social-media)
+
+**March 15 - BCS Film Series - MANDATORY (because of canceled class)**
+* Space Traders
+* Brother from Another Planet
+
+*bring computers or device to participate in group live tweeting assignment*
+
+**Mar 16 - Space is the Place [with B-Side - in person visits from Dr. Mark Anthony Neal, Dr. Marisa Parham, and Mr. Pierre Bennu]**
+
+* Viewing on March 15: Brother from Another Planet (dir. John Sayles) 
+* We will now view this IN CLASS: Pumzi (dir. Wanuri Kahiu) 2009 [Click Here](https://www.youtube.com/watch?v=IlR7l_B86Fc&list=PLrtOtG6W-c0A13SRf3BuW9-An3NeAcig5&index=8) and Black America, Again (Common), 2016 [Click Here](https://www.youtube.com/watch?v=WMNyCNdgayE)
+* REVISIT: [Black Moses Barbie (view all three commercials)](https://www.youtube.com/watch?v=lnZagD_jBH4) 
+* Parham, Marisa. “Saying‘ Yes’: Textual Traumas in Octavia Butler’s Kindred.” Callaloo 32, no. 4 (2009): 1315–1331. [Documents Folder]
+
+Tools for today:
+* [Twitter Archiver](https://chrome.google.com/webstore/detail/twitter-archiver/pkanpfekacaojdncfgbjadedbggbbphi?hl=en)
+* [IFTTT Twitter Archiver Applet](https://ifttt.com/applets/122162p-collect-all-your-tweets-with-a-specific-hashtag-in-a-google-spreadsheet)
+
 
 ---
 
@@ -186,9 +201,13 @@ No class
 
 Week 9
 
+##M3: Black Data 
+
 **Mar 28 - Coding Black Revolt**
 
-Database Assignment #2 Due
+Database Assignment #1 Due
+
+**visit the Evergreen Museum exhibit "Seventeen Portraits of Black Civil War Soldiers" before arriving to class**
 
 * Brown, Vincent. “Mapping a Slave Revolt Visualizing Spatial History through the Archives of Slavery.” Social Text 33, no. 4 125 (December 1, 2015): 134–41. 
 * Egan, Shannon, "Kara Walker: Harper's Pictorial History of the Civil War (Annotated)" (2013). Schmucker Art Catalogs. Book 2. http://cupola.gettysburg.edu/artcatalogs/2
@@ -258,7 +277,7 @@ Week 12
 
 * Kim Gallon, Black Digital Humanities, "Debates in the Digital Humanities" 2016 [Click Here](http://dhdebates.gc.cuny.edu/debates/text/55)
 * Weheliye, "Engendering Phonographies: Sonic Technologies of Blackness" *Small Axe*
-* Haynes, Tonya. “Mapping Caribbean Cyberfeminisms.” Sx Archipelagos, no. 1 (May 1, 2016). 
+* Haynes, Tonya. “Mapping Caribbean Cyberfeminisms.” Sx Archipelagos, no. 1 (May 1, 2016). [Click Here](http://smallaxe.net/sxarchipelagos/issue01/haynes-mapping.html)
 * Wangechi Mutu: http://wangechimutu.com/
 
 

@@ -1,0 +1,18 @@
+## Twitter Assignment 1
+
+I am pretty familiar with Twitter as a platform, but I decided to make a new account for this class. I also have always wanted an account centered around social issues/activism because Twitter is definitely a hot place for that. 
+
+When I was signing up, I was encouraged to follow Baltimore-related things based on my location. Twitter also directed me to choose topics I'm interested in so that I could automatically follow related Twitter accounts. I opted not to follow anyone Twitter made me because I'm usually pretty picky about what kind of content I see online, and I don't necessarily trust algorithms to know who I want to follow.
+
+Security protocols included me verifying my account through my phone and email address. Sign up was definitely different from Tumblr in that it required many more steps, and it also forced me to share more about myself than Tumblr did. I can tell that Twitter is definitely more focused on interaction with others in that it continually wanted me to find my friends through my phone number, email, etc. 
+
+##### **My List of Twitter Accounts @BlkCodeStudies should follow**
+I'm not very familiar with what has been coined "Black Twitter," but I am familiar with a few famous online activists, and among them I chose **Ijeoma Oluo** (@IjeomaOluo) for this list. She's an online writer and speaker, and she is really active on Twitter. She runs a great account that constantly brings attention to many different social issues and happenings, especially regarding African Americans and racism. I especially love how she calls out people for their BS and is very witty. If you follow her, you definitely stay aware of what's happening, and you can even stay on top of all the newest political memes.
+
+From the many readings we've done so far, I really especially liked **Salamishah Tillet**'s piece. I found her on Twitter (@salamishah), and I think her account is definitely worth following. As an academic, her style of tweeting is definitely more formal, but I enjoy the way she links many different important articles, but also engages in deeper discussion. I've read some really great articles from all over about different topics thanks to Tillet so far, and have also enjoyed reading more of her writing.
+
+Next on my list is another amazing woman of color, **Ava DuVernay** (@ava). I personally love movies, and following Ava has helped me discover and learn about so many new, under-represented female and POC filmmakers. Following Ava is so informative, but it is also definitely inspiring because I feel like I'm constantly exposed to a public figure who so strongly supports important social movements. I think she's definitely spearheading change in the film/Hollywood circle.
+
+Also on my list is the account of the **Smithsonian National Museum of African American History and Culture**, which is not only an essential space to celebrate Black history and culture, but it also constantly tweets out important and relevant facts. It was especially exciting to follow recently during Black History Month because it was constantly tweeting events that happened #OTD (on this day). The NMAAHC account also tweets about internship/work/volunteer opportunities related to the museum, as well as chances to visit. 
+
+Lastly, I recommend following the **Black Lives Matter** twitter account, which I believe is essential to any discourse today surrounding racism, African American rights, police brutality, etc., especially when discussing it in the context of Twitter and online activism. I feel that the BLM twitter is more of a place that calls people to action as it gives out information about rallies, marches, hearings, etc. 

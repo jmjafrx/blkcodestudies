@@ -1,0 +1,18 @@
+### Overview
+* Space Traders
+As I have always been a fan of books over their movie counterparts, I found the movie much less sombre than the reading. However, it could have also been the director's intention, to make the movie more light hearted. Or perhaps I found it funnier because of the obvious old-time graphics. Bringing to the screen Bell's story, this movie held true to the plot except for minor changes. To see powerful white men talk about the necessity of black people in America for their own-slef interest, and to see actual faces spew words of hatred so easily in positions of power, makes one wonder what goes on behind closed doors in real life
+* Brother From Another Planet
+This was simultaneously a humorous and thought-provoking film, as well as a member of the Afro futurism genre. Why is it that the mute alien in hiding took on the appearance of the black man, and his hunters were both white men? It rings very true of what slavery was like. The escaped alien ends up on the streets of Harlem, and spends time trying to adjust on this foreign planet while hiding from agents, 'men in black' so to speak.
+* Pumzi
+This was a very short film that left much up to the imagination of the audience. Earth looked much like the barren planet Mars in this film. How did we reach this point? It is not explicitly told, but likely because of human selfishness and greed and inattentiveness to climate change. Interesting to see whether this will become reality with the President's new proposed budget pan. Water was the most precious resource in this film, with even human waste being filtered to produce drinkable liquid. There was a point where, in the virtual museum, you see a tree trunk with roots, and a newspaper clipping reading 'The Last Tree on Earth Dies'. The film ends with the main character, who for once in the space film genre a black woman, escaping and planting the seed that was anonymously mailed to her. Her body provides for life on Earth again.
+### Reflection
+The films showcased how the concept of being in space, and of being an alien, is not one unknown to African Americans. They are already treated so despicably in this country, as if they themselves are aliens despite the fact that they were not brought here willingly. The idea of escaping into space to find a land where black skin is not hated and villified in not foreign. I enjoyed Space Traders the most out of the films for this week. 
+### Expand
+http://www.cnn.com/2017/03/16/politics/trump-budget-cuts/
+With the EPA facing severe cuts, will our world eventually turn into the one in Pumzi? I guess we can only wait and see.
+### Comment
+To answer Tejiri's second question, I think the 'needs of many outweigh the needs of few' concept would still work towards white people's advantage in this case. Considering they are the majority still in this country, they would find it outrageous and discriminatory to only ask for white people below the poverty line (of course they would not care if black people were the ones being asked to go, as Space Traders showed). All those powerful white men we see in power under this new administration would most definitely lead the charge against the aliens, and call even the through of such an action blasphemous. 
+### Questions
+* Would a director ever making a sequel to Space Traders today, in this day and age? Or re film it to give a new, more modern angle?
+* Was there any significance in the film Pumzi on how everyone was wearing drab clothing? Considering that minorities have traditionally shown off the flamboyant colours of their heritage through clothes?
+* As I was unable to finish the movie, does the alien in BFAP stay in his new home on Earth?

@@ -1,5 +1,5 @@
 
-_This is the analog/PDF copy of the syllabus as finalized on January 30, 2016 and distributed by request to students in the class at JHU. It will and has changed since then. For the official syllabus go to [insert url]
+_This is the analog/PDF copy of the syllabus as finalized on January 30, 2016 and distributed by request to students in the class at JHU. It will and has changed since then. For the official syllabus go to [click](https://github.com/blackcodestudies/blkcodestudies/)
 
 
 #Black Codes Studies: Black History and Digital Media (Spring 2017)
@@ -16,7 +16,7 @@ Tuesday and Thursday
 
 3:00 - 4:15 p (Spring 2017)
 
-Dr. Jessica Marie Johnson (jmj@jhu.edu)
+Dr. Jessica Marie Johnson (jmj@jhu.edu) - Office hours, 2 pm T/Th
 
 ##Description
 
@@ -32,7 +32,8 @@ Black Code Studies is about decoding systems of oppression. [Click here](https:/
 
 The material covered will likely make you uncomfortable. And that's fine! We are all here to learn and we are all learning. You are not required to agree with everything you read or everything your peers have to say. You are required to engage and think critically and historically about all of the topics discussed. This course uses histories of people of African descent to think broadly about all forms of difference in the U.S. and around the world. Hopefully these topics interest you and will make for rousing discussions over the course of the semester.
 
-But if you anticipate having difficulty engaging with these topics, this is not be the course for you.
+But if you anticipate having difficulty engaging with these topics, this is not the course for you.
+
 
 
 ##Goals

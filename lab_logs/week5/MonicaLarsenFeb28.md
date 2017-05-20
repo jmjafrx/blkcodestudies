@@ -1,0 +1,15 @@
+## Overview
+### Sharpe, Christina, "Chapter One: The Wake," from In the Wake: On Blackness and Being, Duke U Press, 2016
+Sharpe begins with a personal narrative and describes the loss that she has felt in her life. She experienced the deaths of three family members in close succession two separate times in her life, and pointed out that loss and mourning are not unusual feelings in the life of a Black person. She states that Black life is a life in mourning, as the after effects of slavery are still being felt and pushed along. “In the Wake” describes the continuance of slavery and Black death that is shown through incarceration, murder, exclusion, separation, celebration and normalization of Black death, whether it be physical, psychic, or social. She ends by declaring that Black lives will not be protected, as they have no place that they are seen as worthy of protection or respect.
+### Woods, Clyde Adrian. “Do You Know What It Means to Miss New Orleans?: Katrina, Trap Economics, and the Rebirth of the Blues.” American Quarterly 57, no. 4 (January 3, 2006): 1005–18.
+Woods reflects on the (lack of) reaction to Hurricane Katrina and the message that it sent to the people of the region affected – America does not care about its African American citizens. She began with the image of thousands of African Americans chanting, “We want help” and the lack of response from the government to send aid to the Black communities of New Orleans. She describes the ways that African American people have been blamed for their situation and includes quotes from elected officials talking about what should be seen as human rights violations and racial cleansing. Woods, like Sharpe, explains that the effects of slavery are not gone and are very much alive and growing, especially in the Deep South where racism is masked as heritage. 
+## Reflection
+Sharpe and Woods both reflect upon the effects of slavery and the reparations that were never made. They describe fugitivity in different ways with the common theme of standing against a system that was meant to keep white supremacy as the law of the land. 
+## Expand
+https://goodmenproject.com/featured-content/stop-sharing-black-pain-wcz/ this article relates to Sharpe's point that it is harmful to share videos of black individuals dying at the hands of police.
+## Comment
+In response to Aaron, “Does the wake ever end? The wake of slavery? Personal wakes? Or are we always working through them?”, I don’t think that the wake ever ends. The sadness and suffering is still there and although it can be worked through, it doesn’t fully go away. I believe that personally, this is true for personal loss and suffering, but I cannot say if it is true for the wake of slavery.
+## Question
+*  What other instances come to mind when thinking of times that the United States made it obvious that it doesn’t care about its black citizens?
+* Do you think that having more African American elected officials would help ensure that situations where violations against black/brown communities are not committed?
+* Would making real effective reparations to fix the effects of slavery diminish the wake?

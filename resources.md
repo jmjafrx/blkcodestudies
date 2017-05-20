@@ -2,9 +2,35 @@
 
 #Resources
 
-![BCS on Spotify](https://github.com/jmjafrx/blkcodestudies/blob/master/nontext/SpotifyImageHeader.png)
+##Digital Footprint
+
+Dr. Johnson --
+
+Social Media 
+
+* Twitter: [@jmjafrx](http://twitter.com/jmjafrx)
+* Tumblr: [http://jmjafrx.tumblr.com](http://jmjafrx.tumblr.com)
+* Facebook: [http://facebook.com/jmjafrx](http://facebook.com/jmjafrx)
+
+Digital Media
+
+* [African Diaspora Ph.D.](http://africandiasporaphd.com)
+* [Diaspora Hypertext, the Blog](http://diasporahypertext.com)
+
+Dr. Neal --
+
+Social Media
+
+* Twitter: [@NewBlackMan](http://twitter.com/NewBlackMan)
+
+Digital Media
+
+* [Left of Black](https://www.youtube.com/playlist?list=PLBEF73A21DAA138AF)
+* [New Black Man](http://newblackmaninexile.net)
 
 ##The Soundtrack
+
+![BCS on Spotify](https://github.com/blackcodestudies/blkcodestudies/blob/master/nontext/SpotifyImageHeader.png?raw=true)
 
 Black Code Studies EP - Side A [Click here](http://www.newblackmaninexile.net/2017/01/blackcodestudies-ep-a-side.html)
 
@@ -28,4 +54,14 @@ Markdown Cheatsheet · adam-p/markdown-here Wiki [Click Here](http://bit.ly/2kMp
 >"This is intended as a quick reference and showcase. For more complete info, see John Gruber's original spec and the Github-flavored Markdown info page."
 
 
+##On Black/Diaspora History
 
+[African Diaspora, Ph.D.](http://africandiasporaphd.com)
+ 
+[In Motion: The African-American Migration Experience](http://www.inmotionaame.org/home.cfm)
+ 
+[The Library of Congress:: American Memory:: African American History](http://memory.loc.gov/ammem/browse/ListSome.php?category=African%20American%20History)
+
+[Digital Schomburg](https://www.nypl.org/about/locations/schomburg/digital-schomburg)
+
+ 

@@ -1,0 +1,37 @@
+Lab Log #2 | Jonathan Brown JB
+
+**Overview**
+
+Trent Article
+In this review on Underground, Trent admitted that she was initially skeptical about the show’s ability to be compelling, which I’ll interpret as meaning authentic. One of her criticism of Hollywood productions on slavery is that they usually are the same narratives or completely misinterpret the historical period. However, Trent is impressed by the show. She compared it to PBS’ Downton Abbey, referring to the organized structure of the head house slave, Ernestine. Her rigid working nature is analogous to any head house servant of an English estate. Yet, unlike the privileged servants of the English gentry, Ernestine and the slaves she manages are property. They can be whipped, beaten, sexual assaulted and abused, sold and even killed for arbitrary reasons. Trent argues that historians should embrace Underground. It rejects the narrative of slavery as a necessary evil or that slavery helped prevents Black Americans from devolving into the savagery of their African kin. 
+
+Felsenthal Article
+Felsenthal received the opportunity to interview Misha Green and Joe Pokaski, co-creators of Underground. Neither of the creators has a background in history and yet, they were able to capture the raw reality of plantation slavery in the deep South (if we are to take Trent’ review for fact).  Green and Pokaski conducted extensive researched, using existing achieves to piece together various narratives of slave existence. Underground sheds light on the histories of individuals who have been both silenced and ignored in the historical record. Green and Pokaski make the comparison that the Macon 7 resemble superhero groups like the X-men, which is an interesting parallel. Each slave has a unique gift that makes the seven stronger together. 
+
+Bunch Article
+It was inspiring to read Director Bunch’s article on how the African American History and Culture Museum came to be. Bunch provided an honest reflection of what I did not know what nearly a century-long project. President Coolidge commissioned a memorial to Black Americans that never were developed because of the Great Depression. Perhaps, this development was necessary. I am not sure if American society could have handled an honest portrayal of the Black existence. Bunch also mentioned that few individuals even questioned the necessity of such of a museum on the national mall. Some of these objectors were executives of existing African-American history and culture museums. It appears that gathering artifacts gave Bunch the ability to continue his quest to develop the museum, specifically the personal trinkets that families held onto. 
+
+Patterson Reading
+Patterson’s Colored Conventions Project deconstructs two myths regarding the lives of free African-Americans. Colored Conventions highlighted the prosperity and strength of free Blacks during the antebellum period, a period where free Blacks saw their legitimacy and power undermined, ignored, and sometimes erased. Patterson’s project serves as an archive of the distinguishing feature of the black middle and bourgeoisie classes, an annual meeting to discuss the progress of the fee black community and to promote activism and awareness for antislavery causes. Second, this project also reintroduces free Black women into the narratives of these conventions. Patterson found that often, men of distinction are profiled as the most important historical figures present at these events. Rarely have historians of these conventions provided the women in attendance with the same importance as the men who have been recorded. For example, Elizabeth Gloucester was a convention attendee whose wealth surpassed that of many of the men in attendance. While her wealth may have been inspiring for some, it is how she used her wealth that reflects her true merit. Gloucester promoted causes of literacy, emancipation and even was a conductor on the Underground Railroad.  
+
+Tillet Reading
+In “Shadow of the Castle”, Salamishah Tillet evaluates how contemporary African Americans remember and immortalize slavery. She explores her thesis through the photographs of Higgins and Weems and new notions of emigrationism. One point that Tillet makes about contemporary “Back to Africa” movements is that some of these return movements are not the redemptive return to African to recapture the lost homeland of people of the African diaspora. The emigration desires of Paul Delany and Marcus Garvey and other Pan African emigration activist to permanently resettle Africa are not the same today. Rather, contemporary movements to African resemble or actual are examples of cultural and heritage tourism where Afro-Americans desire a stronger connection a lost heritage. 
+
+**Reflection**
+
+I thought Green or Pokaski’s comparison of the Macon 7 as superhero team, similar to the X-men was interesting. Each slave has a unique ability that is instrumental to the team’s overall success in escaping on the Underground Railroad. I thought the pilot for Underground was a great, but slow introduction to life as a fugitive. Tumblr spoiled much of the remaining episodes for me. However, I was amazed to see that many of the discussions were focused on the stories of the characters and not on the actors, compared to the lack of conversation about the film regarding #12YearsaSlave. 
+
+**Expand** 
+
+![enter image description here](https://lh3.googleusercontent.com/-PIVbnLg326E/WJoLL2xhjLI/AAAAAAAAAYk/ERVvRqL_kakll23a6BbF-0ne7kdN_e35QCLcB/s0/Jack+Traynaham.jpg "Jack Traynaham.jpg")
+
+After watching Henry Louis Gates’ Finding Your Roots series on PBS, I became inspired to conduct my own search. I have researched my genealogy off and on for about nine years and have made more progress. Over intersession, I found this photo on ancestry.com attached to the figure Jack Traynham, my 3rd great-grandfather (paternal grandmother). If my research is correct, Jack was born a slave in Halifax County, VA in 1850. The photo depicts him and his wife Mildred or Millie. They had 18 kids, which seems to be a trend in my family. My grandmother had nine children. 
+
+**Comment**
+
+Channing’s photo of “Strange Fruit” figure was powerful. I visited the BMA before classes started, but did not see this exhibit. I was struck by the graphic nature of the figure, an African woman hanging upside down bounded by her feet. To further dehumanize the figure, she is naked, but appears to try to cover her breasts and vagina as to protect her virtue. 
+
+**Questions**
+- Tillet mentioned that Higgins captured his scene of the door on Gorée Island on days without a large volume of traffic. The purpose of this was to invoke an emotional response of desperation and fear that captured Africans felt as they departed the shores of Senegal. Is it important to understand the photographer’s intentions that way we are asked to understand an author’s and a filmmaker’s intentions? What does the photographer risk losing by purposeful setting a scene?
+- Ernestine and Cato are both more powerful slaves in terms of social hierarchy. Are these roles to be desired or should viewers reject these characters as sell outs/conformists? Cato admits that he wants to run, so is being a house slave all the desirable if you are still not the master of your own condition?
+- What do you make of the interracial creative team? Was it necessary to tell this story? 
