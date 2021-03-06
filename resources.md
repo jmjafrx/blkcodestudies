@@ -1,10 +1,10 @@
 
 
-#Resources
+# Resources
 
 ![BCS on Spotify](https://github.com/jmjafrx/blkcodestudies/blob/master/nontext/SpotifyImageHeader.png)
 
-##The Soundtrack
+## The Soundtrack
 
 Black Code Studies EP - Side A [Click here](http://www.newblackmaninexile.net/2017/01/blackcodestudies-ep-a-side.html)
 
@@ -13,11 +13,11 @@ Black Code Studies EP - Side B [Click Here](http://www.newblackmaninexile.net/20
 Black Codes Studies Playlist on Spotify [Click Here](https://open.spotify.com/user/1240086865/playlist/4UDoQDSNuElT1r2xQ3oZ5F)
 
 
-##Power & Privilege Vocabulary Terms
+## Power & Privilege Vocabulary Terms
 
 Black Code Studies is about decoding systems of oppression. Click [here](https://www.dropbox.com/s/bwet4de69ucgrzp/Power-Privilege%20Language.doc?dl=0) for a list of terms you are likely to hear this semester. Some of the language we will be using may be familiar--if you have questions, just ask.
 
-##On Markdown
+## On Markdown
 
 [Sustainable Authorship in Plain Text using Pandoc and Markdown | Programming Historian](http://bit.ly/1FgL9qA)
 
